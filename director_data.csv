@@ -1,0 +1,2191 @@
+ID,Director Name,IMDB Average,Rotten Tomatoes Average,Metacritic Average,Number of Movies
+1,Ryan Coogler,7.6/10,95%,85/100,3
+2,John Krasinski,7.2/10,70%,68/100,2
+3,Steven Spielberg,7.3/10,80%,62/100,14
+4,Will Gluck,6.3/10,61%,55/100,4
+5,James Foley,5.3/10,26%,24/100,4
+6,Ava DuVernay,5.8/10,68%,71/100,2
+7,Andrew Erwin,6.5/10,52%,37/100,3
+8, Jon Erwin,6.5/10,52%,37/100,3
+9,John Francis Daley,6.7/10,54%,50/100,2
+10, Jonathan Goldstein,6.7/10,54%,50/100,2
+11,Adam Robitel,5.7/10,32%,49/100,1
+12,Brad Peyton,5.7/10,46%,17/100,4
+13,Steven S. DeKnight,6.0/10,43%,44/100,1
+14,Wes Ball,6.6/10,51%,35/100,3
+15,Roar Uthaug,6.8/10,49%,48/100,1
+16,Kay Cannon,6.6/10,82%,69/100,1
+17,Francis Lawrence,6.9/10,64%,54/100,7
+18,Nicolai Fuglsig,7.0/10,54%,54/100,1
+19,Christian Gudegast,7.0/10,40%,49/100,1
+20,Tyler Perry,5.3/10,26%,4/100,3
+21,Paul King,7.6/10,98%,82/100,2
+22,Greg Berlanti,7.3/10,60%,56/100,2
+23,John Stevenson,6.2/10,52%,54/100,2
+24,Jaume Collet-Serra,6.5/10,56%,47/100,7
+25,Clint Eastwood,7.1/10,68%,70/100,15
+26,Eli Roth,6.4/10,56%,53/100,7
+27,Alex Garland,7.3/10,90%,78/100,2
+28,Jeff Wadlow,5.9/10,25%,30/100,4
+29,Michael Spierig,5.9/10,39%,41/100,3
+30, Peter Spierig,5.9/10,39%,41/100,3
+31,Wes Anderson,7.7/10,84%,78/100,7
+32,Johannes Roberts,5.5/10,38%,26/100,2
+33,Babak Najafi,5.5/10,27%,32/100,2
+34,Andrew Hyatt,N/A/10,43%,N/A/100,1
+35,Bethany Ashton Wolf,6.0/10,21%,36/100,1
+36,Abby Kohn,N/A/10,N/A%,N/A/100,1
+37, Marc Silverstein,N/A/10,N/A%,N/A/100,1
+38,Jay Chandrasekhar,6.0/10,28%,43/100,5
+39,John Curran,6.5/10,64%,65/100,4
+40,Sanjay Leela Bhansali,7.2/10,72%,63/100,5
+41,Scott Speer,6.3/10,29%,40/100,2
+42,Sean McNamara,5.9/10,34%,27/100,5
+43,Nick Park,6.7/10,90%,78/100,2
+44,Steven Soderbergh,6.6/10,73%,59/100,15
+45,Armando Iannucci,7.3/10,94%,86/100,2
+46,Rob Cohen,5.4/10,25%,26/100,8
+47,Michael Sucsy,6.3/10,46%,48/100,2
+48,Michael Mason,N/A/10,13%,N/A/100,1
+49,Nash Edgerton,6.0/10,40%,46/100,1
+50,Bruce Macdonald,4.6/10,25%,7/100,1
+51, Gabriel Sabloff,4.6/10,25%,7/100,1
+52,Brad Anderson,6.6/10,76%,38/100,4
+53,Deon Taylor,5.7/10,11%,26/100,2
+54,N/A,6.4/10,N/A%,N/A/100,17
+55,José Padilha,5.6/10,36%,50/100,2
+56,,6.5/10,55%,46/100,4020
+57,Cory Finley,7.3/10,86%,76/100,1
+58,Marco Polo Constandse,N/A/10,N/A%,N/A/100,1
+59,Hiromasa Yonebayashi,7.2/10,94%,40/100,2
+60,Chen Sicheng,6.7/10,50%,N/A/100,1
+61,Sebastián Lelio,7.3/10,94%,86/100,1
+62,Richard Lanni,N/A/10,80%,N/A/100,1
+63,Dante Lam,7.5/10,83%,N/A/100,1
+64,Ahmed Khan,5.6/10,40%,N/A/100,1
+65,Raj Kumar Gupta,8.0/10,71%,N/A/100,1
+66,Ziad Doueiri,7.5/10,86%,73/100,2
+67,Rian Johnson,7.2/10,82%,74/100,4
+68,Bill Condon,6.3/10,63%,62/100,7
+69,Patty Jenkins,7.4/10,86%,75/100,2
+70,Jake Kasdan,6.1/10,51%,50/100,5
+71,James Gunn,6.6/10,66%,55/100,4
+72,Jon Watts,7.5/10,92%,73/100,1
+73,Andy Muschietti,6.8/10,74%,63/100,2
+74,Taika Waititi,7.8/10,95%,53/100,3
+75,Kyle Balda,6.3/10,58%,52/100,2
+76, Pierre Coffin,6.3/10,58%,52/100,2
+77, Eric Guillon,6.3/10,59%,49/100,1
+78,Zack Snyder,7.0/10,49%,50/100,8
+79,James Mangold,7.5/10,79%,59/100,5
+80,F. Gary Gray,6.8/10,49%,50/100,6
+81,Lee Unkrich,8.2/10,98%,47/100,4
+82, Adrian Molina,8.5/10,97%,8/100,1
+83,Christopher Nolan,8.4/10,86%,64/100,10
+84,Jordan Peele,7.7/10,99%,84/100,1
+85,Chris McKay,7.3/10,90%,75/100,1
+86,Tom McGrath,6.8/10,64%,27/100,5
+87,Michael Gracey,7.8/10,55%,48/100,1
+88,Joachim Rønning,6.9/10,56%,50/100,2
+89, Espen Sandberg,6.9/10,56%,50/100,2
+90,Jordan Vogt-Roberts,7.0/10,76%,34/100,2
+91,Brian Fee,6.8/10,68%,59/100,1
+92,Matt Reeves,7.3/10,87%,76/100,4
+93,M. Night Shyamalan,6.0/10,43%,43/100,9
+94,Stephen Chbosky,8.0/10,86%,66/100,2
+95,Michael Bay,6.2/10,29%,29/100,8
+96,Malcolm D. Lee,5.8/10,57%,51/100,8
+97,Edgar Wright,7.6/10,88%,54/100,6
+98,Trish Sie,6.0/10,36%,24/100,2
+99,Sean Anders,6.1/10,30%,20/100,5
+100,Kenneth Branagh,6.7/10,68%,58/100,4
+101,David F. Sandberg,6.4/10,73%,60/100,2
+102,Matthew Vaughn,7.5/10,74%,53/100,6
+103,Denis Villeneuve,7.7/10,86%,36/100,5
+104,Tony Leondis,4.5/10,22%,3/100,2
+105,Dean Israelite,6.2/10,40%,46/100,2
+106,Carlos Saldanha,6.8/10,62%,43/100,7
+107,Alex Kurtzman,6.2/10,34%,42/100,2
+108,Patrick Hughes,6.5/10,36%,41/100,2
+109,Ridley Scott,7.2/10,61%,54/100,14
+110,David Soren,6.3/10,76%,64/100,2
+111,Jon Lucas,5.8/10,44%,24/100,2
+112, Scott Moore,5.8/10,44%,24/100,2
+113,Lasse Hallström,6.8/10,47%,46/100,10
+114,Guillermo del Toro,7.1/10,79%,74/100,7
+115,Charlie Bean,6.0/10,55%,55/100,1
+116, Paul Fisher,6.0/10,55%,55/100,1
+117, Bob Logan,6.0/10,55%,55/100,1
+118,Seth Gordon,6.0/10,32%,33/100,4
+119,Stuart Hazeldine,6.3/10,19%,32/100,1
+120,Joe Wright,6.8/10,64%,55/100,6
+121,Christopher Landon,5.9/10,51%,44/100,3
+122,Martin McDonagh,7.8/10,86%,74/100,3
+123,David Leitch,7.0/10,82%,66/100,2
+124,Doug Liman,6.9/10,68%,51/100,7
+125,Nikolaj Arcel,6.7/10,52%,54/100,2
+126,Greta Gerwig,7.5/10,99%,94/100,1
+127,Jonathan Levine,6.5/10,69%,48/100,5
+128,Yimou Zhang,7.3/10,70%,46/100,5
+129,Kelly Asbury,6.7/10,65%,44/100,3
+130,Zach Braff,6.9/10,74%,38/100,3
+131,Benny Boom,5.8/10,19%,42/100,2
+132,Michael Showalter,7.1/10,90%,74/100,2
+133,Luc Besson,6.3/10,42%,23/100,4
+134,Timothy Reckart,5.8/10,45%,42/100,1
+135,Rupert Sanders,6.2/10,46%,54/100,2
+136,Guy Ritchie,7.5/10,60%,46/100,6
+137,Michael Cuesta,6.8/10,65%,41/100,3
+138,Martin Campbell,6.5/10,47%,41/100,7
+139,Stella Meghie,6.4/10,46%,52/100,1
+140,Taylor Sheridan,7.8/10,87%,73/100,1
+141,Dean Devlin,5.4/10,13%,2/100,1
+142,Chris Wedge,6.5/10,59%,32/100,4
+143,Richie Keen,5.6/10,26%,37/100,1
+144,Ken Marino,5.9/10,38%,54/100,1
+145,Luis Prieto,5.9/10,37%,44/100,1
+146,Anna Foerster,5.8/10,21%,23/100,1
+147,Hany Abu-Assad,7.0/10,64%,28/100,2
+148,Daniel Espinosa,6.6/10,53%,41/100,4
+149,Craig Gillespie,6.7/10,64%,44/100,6
+150,Scott Cooper,7.1/10,73%,70/100,4
+151,Aaron Sorkin,7.5/10,82%,7/100,1
+152,Cal Brunker,5.6/10,23%,36/100,2
+153,F. Javier Gutiérrez,4.5/10,7%,25/100,1
+154,Hallie Meyers-Shyer,5.7/10,32%,4/100,1
+155,Paul W.S. Anderson,5.9/10,31%,39/100,7
+156,Andrew Jay Cohen,5.6/10,18%,3/100,1
+157,Marc Webb,7.1/10,66%,42/100,3
+158,Alexander Payne,7.1/10,83%,80/100,6
+159,Stacy Title,4.3/10,23%,37/100,1
+160,Lucia Aniello,5.2/10,44%,5/100,1
+161,Jayson Thiessen,6.2/10,47%,39/100,1
+162,Eric Summer,6.8/10,37%,48/100,1
+163, Éric Warin,6.8/10,37%,48/100,1
+164, Mimi Maynard,6.0/10,26%,42/100,2
+165, Paulette Victor-Lifton,6.8/10,37%,48/100,1
+166,James Franco,7.6/10,91%,76/100,1
+167,Paul Thomas Anderson,7.4/10,84%,55/100,5
+168,Baran bo Odar,5.6/10,23%,34/100,1
+169,David Bowers,6.0/10,48%,45/100,5
+170,James Ponsoldt,6.5/10,66%,69/100,3
+171,S.S. Rajamouli,8.3/10,96%,N/A/100,2
+172,Dax Shepard,6.0/10,33%,16/100,2
+173,Joseph Kosinski,7.2/10,63%,58/100,3
+174,Luca Guadagnino,7.3/10,90%,85/100,4
+175,Darren Aronofsky,7.3/10,76%,50/100,6
+176,Niki Caro,7.3/10,75%,35/100,4
+177,Lawrence Sher,4.9/10,19%,22/100,1
+178,Destin Daniel Cretton,7.5/10,74%,69/100,2
+179,Niels Arden Oplev,5.8/10,22%,33/100,2
+180,Kathryn Bigelow,7.3/10,83%,81/100,4
+181,Jon Gunn,6.0/10,36%,14/100,2
+182,John R. Leonetti,5.2/10,22%,34/100,2
+183,Trey Edward Shults,6.2/10,88%,78/100,1
+184,Chuan Lu,7.2/10,83%,57/100,1
+185,Gabriela Cowperthwaite,7.5/10,91%,74/100,2
+186,John Lee Hancock,7.1/10,78%,61/100,5
+187,Jonathan Dayton,7.3/10,85%,49/100,3
+188, Valerie Faris,7.3/10,85%,49/100,3
+189,Ry Russo-Young,6.4/10,63%,58/100,1
+190,Dan Gilroy,7.2/10,73%,67/100,2
+191,Denise Di Novi,5.0/10,25%,45/100,1
+192,Sofia Coppola,6.6/10,72%,73/100,6
+193,Greg McLean,5.6/10,36%,42/100,3
+194,Reginald Hudlin,5.8/10,8%,32/100,3
+195,Jason Hall,6.5/10,77%,68/100,1
+196,Ash Brannon,6.3/10,79%,56/100,2
+197,James Gray,6.8/10,78%,72/100,4
+198,Sophon Sakdaphisit,6.4/10,50%,N/A/100,1
+199,Gore Verbinski,6.9/10,58%,43/100,9
+200,Peter Chelsom,6.1/10,40%,42/100,5
+201,Kevin Sorbo,4.9/10,100%,N/A/100,1
+202,Stephen Gaghan,6.2/10,43%,54/100,3
+203,Raoul Peck,7.8/10,98%,95/100,1
+204,Miguel Arteta,6.3/10,72%,40/100,5
+205,George Nolfi,6.2/10,48%,20/100,2
+206,Dorota Kobiela,7.9/10,84%,62/100,1
+207, Hugh Welchman,7.9/10,84%,62/100,1
+208,Tomas Alfredson,6.6/10,63%,63/100,3
+209,Michael Carney,6.3/10,33%,49/100,1
+210,Ricardo de Montreuil,5.9/10,38%,30/100,2
+211,Aisling Walsh,7.7/10,89%,65/100,1
+212,Ron Shelton,5.3/10,31%,35/100,3
+213,Sean Baker,7.7/10,96%,92/100,1
+214,Steve Gomer,5.8/10,94%,63/100,1
+215,George Clooney,6.5/10,67%,49/100,6
+216,Bharat Nalluri,7.0/10,78%,34/100,2
+217,Eleanor Coppola,5.7/10,45%,48/100,1
+218,Ali Abbas Zafar,6.7/10,78%,N/A/100,2
+219,Colin Trevorrow,6.8/10,60%,45/100,3
+220,David Gordon Green,6.2/10,44%,47/100,5
+221,Brett Haley,6.6/10,79%,40/100,2
+222,J.D. Dillard,5.9/10,74%,62/100,1
+223,Amma Asante,7.1/10,84%,64/100,2
+224,Simon Verhoeven,5.3/10,14%,3/100,1
+225,Jeffrey Blitz,5.8/10,26%,4/100,1
+226,Lone Scherfig,7.0/10,78%,72/100,4
+227,Justin Barber,5.2/10,44%,33/100,1
+228,Bonni Cohen,6.0/10,80%,68/100,1
+229, Jon Shenk,6.0/10,80%,68/100,1
+230,Changwei Gu,6.4/10,N/A%,N/A/100,1
+231,Rahul Dholakia,7.0/10,70%,N/A/100,1
+232,Nacho Vigalondo,6.2/10,80%,7/100,1
+233,Matt Spicer,6.7/10,85%,7/100,1
+234,Ceyda Torun,7.7/10,N/A%,78/100,1
+235,Jing Wu,6.3/10,70%,44/100,1
+236,Roger Michell,6.4/10,72%,67/100,7
+237,Paolo Virzì,6.5/10,N/A%,46/100,1
+238,Kevan Otto,4.8/10,40%,N/A/100,1
+239,Thomas Purifoy,4.0/10,N/A%,N/A/100,1
+240,Jeff Calhoun,8.6/10,N/A%,N/A/100,1
+241, Brett Sullivan,8.6/10,N/A%,N/A/100,1
+242,Erin Zimmerman,5.4/10,N/A%,N/A/100,1
+243,Rob Reiner,6.5/10,37%,43/100,5
+244,Justin Chadwick,6.6/10,38%,16/100,3
+245,Asghar Farhadi,8.0/10,96%,88/100,3
+246,Danny Boyle,7.3/10,76%,64/100,9
+247,Kunihiko Yuyama,6.0/10,43%,28/100,4
+248,Dallas Jenkins,6.2/10,N/A%,36/100,1
+249,Yorgos Lanthimos,7.0/10,79%,73/100,1
+250,Eran Creevy,5.7/10,23%,33/100,1
+251,Louis Malle,7.3/10,100%,N/A/100,1
+252,Raúl Martínez,6.9/10,N/A%,N/A/100,1
+253,Mike White,6.2/10,76%,7/100,2
+254,Benny Safdie,7.3/10,92%,8/100,1
+255, Josh Safdie,7.3/10,92%,8/100,1
+256,Shashank Khaitan,6.2/10,78%,N/A/100,1
+257,Catalina Aguilar Mastretta,6.5/10,93%,74/100,1
+258,Yong-hwa Kim,7.4/10,50%,N/A/100,1
+259,Xiaogang Feng,7.3/10,N/A%,69/100,1
+260,Terence Davies,6.6/10,84%,79/100,3
+261,Shree Narayan Singh,7.4/10,N/A%,N/A/100,1
+262,Ben Wheatley,6.4/10,68%,63/100,1
+263,Mark Pellington,7.0/10,55%,46/100,4
+264,Simon Curtis,7.1/10,67%,41/100,3
+265,Brett Morgen,7.7/10,N/A%,81/100,2
+266,Joshua Z Weinstein,6.5/10,97%,8/100,1
+267,Timothy A. Chey,7.8/10,N/A%,N/A/100,1
+268,Imtiaz Ali,6.5/10,36%,N/A/100,3
+269,Subhash Kapoor,7.3/10,50%,N/A/100,1
+270,Jeff Baena,5.8/10,78%,69/100,1
+271,David Lowery,6.8/10,90%,46/100,2
+272,Angela Robinson,5.9/10,64%,58/100,2
+273,Mitch Davis,5.8/10,31%,38/100,2
+274,Ralph Strean,7.0/10,N/A%,N/A/100,1
+275,Hun Jang,7.9/10,95%,69/100,1
+276,Tomohiko Itô,7.4/10,N/A%,N/A/100,1
+277,Carl Upsdell,7.0/10,N/A%,N/A/100,1
+278, Mauro Casalese,7.0/10,N/A%,N/A/100,1
+279,Ruben Östlund,7.3/10,88%,73/100,2
+280,Scott Haze,7.8/10,N/A%,N/A/100,1
+281,David Dhawan,4.8/10,50%,N/A/100,2
+282,Rama Burshtein,6.7/10,89%,76/100,2
+283,Woody Allen,6.8/10,56%,46/100,16
+284,Marc Meyers,6.5/10,83%,68/100,1
+285,Oren Moverman,5.8/10,67%,67/100,2
+286,Olivier Assayas,6.9/10,87%,76/100,4
+287,Jonathan Teplitzky,6.8/10,58%,52/100,2
+288,Ritesh Batra,7.0/10,85%,41/100,2
+289,Rick Altizer,7.8/10,N/A%,N/A/100,1
+290,Carlos Bolado,4.0/10,N/A%,N/A/100,1
+291,Preston A. Whitmore II,4.4/10,29%,33/100,3
+292,Jon Erwin,6.7/10,52%,37/100,4
+293,Emil Ben-Shimon,6.7/10,96%,74/100,1
+294,Michael Winterbottom,6.8/10,84%,62/100,5
+295,Amanda Lipitz,6.8/10,95%,8/100,1
+296,William Oldroyd,6.9/10,89%,76/100,1
+297,Gurinder Chadha,6.9/10,74%,60/100,4
+298,Seung-wan Ryoo,7.0/10,72%,6/100,2
+299,Todd Haynes,7.0/10,82%,65/100,4
+300,Kogonada,7.3/10,98%,89/100,1
+301,Rohit Shetty,5.5/10,48%,45/100,6
+302,Gareth Edwards,7.1/10,80%,64/100,2
+303,Andrew Stanton,7.6/10,85%,46/100,4
+304, Angus MacLan,7.4/10,94%,77/100,1
+305,Anthony Russo,7.1/10,67%,43/100,3
+306, Joe Russo,7.1/10,67%,43/100,3
+307,Chris Renaud,7.2/10,77%,47/100,3
+308, Yarrow Cheney,6.5/10,75%,6/100,1
+309,Jon Favreau,7.0/10,83%,68/100,7
+310,Tim Miller,8.0/10,83%,65/100,1
+311,Byron Howard,7.6/10,92%,51/100,3
+312, Rich Moore,8.0/10,98%,78/100,1
+313, Jared Bush,8.0/10,98%,78/100,1
+314,David Ayer,6.8/10,49%,42/100,6
+315,Garth Jennings,6.9/10,69%,63/100,3
+316, Christophe Lourdel,7.0/10,73%,59/100,1
+317,Ron Clements,7.2/10,83%,29/100,3
+318, John Musker,7.2/10,83%,29/100,3
+319, Don Hall,7.4/10,94%,41/100,2
+320, Chris Williams,7.4/10,91%,50/100,3
+321,David Yates,7.4/10,75%,58/100,6
+322,Scott Derrickson,6.5/10,44%,36/100,5
+323,Theodore Melfi,7.5/10,85%,69/100,2
+324,Paul Greengrass,7.4/10,78%,62/100,6
+325,Bryan Singer,6.9/10,68%,54/100,6
+326,Mike Mitchell,5.8/10,50%,45/100,6
+327, Walt Dohrn,6.5/10,73%,56/100,1
+328,Damien Chazelle,8.2/10,93%,90/100,2
+329,Alessandro Carloni,7.0/10,86%,66/100,1
+330, Jennifer Yuh Nelson,7.0/10,86%,66/100,1
+331,Paul Feig,6.1/10,70%,41/100,5
+332,Rawson Marshall Thurber,6.7/10,62%,50/100,3
+333,Clay Kaytis,6.3/10,43%,43/100,1
+334, Fergal Reilly,6.3/10,43%,43/100,1
+335,Roland Emmerich,6.1/10,40%,40/100,7
+336,James Wan,7.0/10,55%,46/100,8
+337,Morten Tyldum,7.5/10,71%,50/100,3
+338,Greg Tiernan,5.3/10,43%,47/100,2
+339, Conrad Vernon,6.8/10,83%,49/100,3
+340,Antoine Fuqua,6.9/10,51%,48/100,9
+341,Tim Story,6.2/10,46%,24/100,10
+342,Fede Alvarez,6.8/10,75%,32/100,2
+343,Tim Burton,6.8/10,66%,57/100,8
+344,Gavin O'Connor,7.2/10,64%,32/100,4
+345,Dave Green,5.9/10,44%,28/100,2
+346,James DeMonaco,6.1/10,49%,21/100,3
+347,James Bobin,6.5/10,68%,38/100,3
+348,Tate Taylor,7.1/10,66%,39/100,3
+349,Nicholas Stoller,6.4/10,70%,63/100,6
+350, Doug Sweetland,6.8/10,63%,56/100,1
+351,Dan Trachtenberg,7.2/10,90%,76/100,1
+352,Mel Gibson,7.7/10,67%,41/100,3
+353,Jon M. Chu,4.6/10,35%,30/100,5
+354,Mike Thurmeier,6.4/10,33%,29/100,3
+355, Galen T. Chu,5.7/10,16%,34/100,1
+356,Ben Falcone,5.2/10,23%,22/100,2
+357,Patricia Riggen,6.7/10,49%,51/100,4
+358,Peter Berg,6.9/10,65%,40/100,8
+359,John Hamburg,6.4/10,49%,30/100,3
+360,Kirk Jones,6.3/10,42%,37/100,4
+361,Edward Zwick,7.2/10,59%,58/100,5
+362,Denzel Washington,7.4/10,86%,69/100,3
+363,Thea Sharrock,7.4/10,56%,5/100,1
+364,Josh Gordon,6.0/10,54%,53/100,3
+365, Will Speck,6.0/10,54%,53/100,3
+366,Justin Kurzel,6.2/10,49%,22/100,2
+367,Garth Davis,8.0/10,86%,69/100,1
+368,Cedric Nicolas-Troyan,6.0/10,17%,35/100,1
+369,Travis Knight,7.8/10,97%,84/100,1
+370,Kenneth Lonergan,7.8/10,95%,90/100,2
+371,Duncan Jones,7.4/10,69%,58/100,3
+372,Christian Ditter,6.0/10,47%,5/100,1
+373,Jake Szymanski,6.0/10,35%,5/100,1
+374,Todd Phillips,6.6/10,47%,42/100,8
+375,David E. Talbert,5.1/10,34%,31/100,3
+376,Jodie Foster,6.5/10,57%,55/100,1
+377,Robert Zemeckis,7.0/10,67%,36/100,8
+378,Henry Joost,6.0/10,60%,46/100,4
+379, Ariel Schulman,6.0/10,60%,46/100,4
+380,Kevin Reynolds,7.0/10,63%,6/100,2
+381,Shane Black,7.4/10,86%,47/100,3
+382,William Brent Bell,5.1/10,14%,25/100,3
+383,Dan Mazer,5.9/10,11%,2/100,1
+384,Mike Flanagan,6.2/10,78%,36/100,2
+385,J Blakeson,5.2/10,15%,33/100,1
+386,Ron Howard,7.0/10,58%,52/100,12
+387,Garry Marshall,5.9/10,21%,32/100,7
+388,Alex Proyas,6.2/10,24%,29/100,3
+389,David Frankel,6.6/10,51%,51/100,4
+390,Ethan Coen,7.1/10,83%,54/100,11
+391, Joel Coen,7.1/10,85%,56/100,8
+392,Jon Cassar,4.9/10,11%,28/100,1
+393,Ben Stiller,6.4/10,55%,25/100,4
+394,Barry Jenkins,7.4/10,98%,99/100,1
+395,Stephen Frears,7.2/10,85%,47/100,7
+396,David Mackenzie,7.6/10,97%,88/100,1
+397,Jason Zada,4.8/10,10%,34/100,1
+398,Timur Bekmambetov,6.1/10,44%,48/100,3
+399,Robert Eggers,6.8/10,91%,83/100,1
+400,Sharon Maguire,6.7/10,78%,62/100,2
+401,Leslie Small,6.7/10,70%,30/100,3
+402, Tim Story,6.7/10,70%,30/100,3
+403,Glenn Ficarra,6.8/10,68%,62/100,4
+404, John Requa,6.8/10,68%,62/100,4
+405,Oliver Stone,6.3/10,51%,56/100,6
+406,Dennis Gansel,5.7/10,31%,38/100,1
+407,Gary Ross,7.1/10,69%,64/100,3
+408,Adam Wingard,5.8/10,56%,56/100,2
+409,Harold Cronk,4.6/10,12%,14/100,2
+410,Peter Atencio,6.3/10,78%,63/100,1
+411,Steve Carr,5.1/10,26%,27/100,8
+412,Barry Sonnenfeld,5.8/10,31%,43/100,4
+413,Stephen Hopkins,6.6/10,43%,49/100,3
+414,Ross Katz,6.6/10,11%,26/100,1
+415,Gavin Hood,6.9/10,65%,29/100,5
+416,Mark Waters,6.1/10,48%,37/100,9
+417,Jared Hess,6.1/10,48%,54/100,3
+418,Trevor Wall,3.6/10,9%,2/100,1
+419,D.W. Griffith,6.7/10,100%,N/A/100,1
+420,Dexter Fletcher,7.4/10,80%,54/100,1
+421,Brad Furman,6.6/10,54%,55/100,3
+422,Greg Mottola,6.8/10,66%,61/100,4
+423,Ariel Vromen,6.3/10,30%,36/100,1
+424,Kelly Fremon Craig,7.4/10,95%,77/100,1
+425,Gaspar Noé,6.0/10,39%,5/100,3
+426,Pablo Larraín,6.7/10,88%,8/100,1
+427,Toni Myers,7.6/10,100%,75/100,1
+428,Dinesh D'Souza,5.2/10,14%,15/100,2
+429, Bruce Schooley,5.4/10,4%,2/100,1
+430,John Hillcoat,7.1/10,70%,62/100,4
+431,Derek Cianfrance,7.3/10,75%,27/100,3
+432,Nitesh Tiwari,8.6/10,92%,N/A/100,1
+433,Michael Tiddes,4.4/10,8%,12/100,3
+434,Nacho G. Velilla,5.7/10,13%,N/A/100,1
+435,Raymond De Felitta,6.8/10,85%,72/100,3
+436,Burr Steers,6.4/10,50%,50/100,4
+437,Tom Ford,7.5/10,79%,72/100,2
+438,Ben Affleck,7.4/10,80%,70/100,4
+439,Bille Woodruff,5.2/10,24%,32/100,4
+440,Akiva Schaffer,6.4/10,45%,49/100,3
+441, Jorma Taccone,6.7/10,78%,68/100,1
+442,Ilya Naishuller,6.7/10,N/A%,5/100,1
+443,Mira Nair,6.8/10,64%,62/100,6
+444,John Johnson,4.5/10,N/A%,N/A/100,1
+445,Vincent Kesteloot,5.3/10,16%,36/100,1
+446, Ben Stassen,5.3/10,16%,36/100,1
+447,Jeff Nichols,7.1/10,90%,79/100,4
+448,Martin Scorsese,7.7/10,83%,76/100,8
+449,Farren Blackburn,4.7/10,8%,25/100,1
+450,Louis Leterrier,6.6/10,50%,30/100,7
+451,Cyrus Nowrasteh,5.5/10,46%,33/100,1
+452,Richard Tanne,6.4/10,92%,74/100,1
+453,Matt Ross,7.9/10,83%,72/100,1
+454,Mike Mills,7.1/10,81%,53/100,3
+455,Ben Younger,6.7/10,62%,61/100,3
+456,Mandie Fletcher,5.4/10,59%,59/100,1
+457,Jonathan Jakubowicz,6.6/10,45%,54/100,1
+458,Mike Birbiglia,6.8/10,91%,45/100,2
+459,Lorene Scafaria,6.5/10,55%,64/100,2
+460,Karan Johar,6.8/10,76%,4/100,4
+461,Tom Tykwer,7.0/10,68%,57/100,5
+462,Dan Kwan,7.0/10,70%,64/100,1
+463, Daniel Scheinert,7.0/10,70%,64/100,1
+464,Mick Jackson,6.6/10,83%,63/100,1
+465,Luke Scott,5.8/10,37%,48/100,1
+466,Pa. Ranjith,6.5/10,67%,N/A/100,1
+467,Matt Brown,7.2/10,63%,56/100,1
+468,Michael Moore,7.7/10,85%,57/100,5
+469,Stewart Hendler,4.8/10,12%,23/100,2
+470,Sam Liu,6.5/10,43%,N/A/100,1
+471,J.A. Bayona,7.5/10,85%,74/100,3
+472,Warren Beatty,5.7/10,57%,6/100,1
+473,John Madden,6.8/10,64%,49/100,6
+474,Hannes Holm,7.7/10,91%,7/100,1
+475,James Schamus,6.8/10,82%,78/100,1
+476,Richard Linklater,7.1/10,84%,70/100,11
+477,Rebecca Miller,6.2/10,N/A%,76/100,1
+478,John Carney,7.8/10,91%,76/100,3
+479,Jeremy Saulnier,7.0/10,90%,79/100,1
+480,Otto Bell,7.5/10,93%,72/100,1
+481,Susanna White,6.1/10,74%,54/100,2
+482,Enrique Begné,5.2/10,58%,28/100,2
+483,Sean Ellis,7.2/10,65%,59/100,1
+484,Wilson Yip,7.0/10,N/A%,57/100,1
+485,Don Cheadle,6.4/10,N/A%,64/100,1
+486,Shakun Batra,6.8/10,86%,N/A/100,2
+487,D.J. Caruso,6.0/10,29%,31/100,6
+488,Michael John Warren,6.3/10,60%,43/100,1
+489,Gauri Shinde,7.8/10,90%,N/A/100,2
+490,Paul Verhoeven,6.9/10,64%,40/100,3
+491,Trivikram Srinivas,7.0/10,N/A%,N/A/100,1
+492,Maneesh Sharma,7.2/10,78%,N/A/100,1
+493,Jim Jarmusch,7.2/10,83%,58/100,4
+494,Sang-ho Yeon,7.5/10,95%,72/100,1
+495,Brian Baugh,5.7/10,22%,3/100,1
+496,Jocelyn Moorhouse,7.0/10,54%,47/100,1
+497,Chan-wook Park,7.4/10,82%,71/100,2
+498,Jonás Cuarón,6.0/10,61%,5/100,1
+499,David Hunt,7.2/10,67%,35/100,1
+500,Jean-Marc Vallée,7.3/10,78%,68/100,4
+501,Hideaki Anno,6.7/10,83%,67/100,1
+502, Shinji Higuch,6.7/10,83%,67/100,1
+503,Neeraj Pandey,7.8/10,75%,N/A/100,1
+504,Ang Lee,7.1/10,68%,60/100,8
+505,Rory Feek,8.6/10,N/A%,N/A/100,1
+506,Josh Kriegman,7.6/10,97%,84/100,1
+507, Elyse Steinberg,7.6/10,97%,84/100,1
+508,Taylor Hackford,6.5/10,46%,41/100,4
+509,Marc Abraham,6.3/10,59%,52/100,2
+510,Meera Menon,5.5/10,82%,68/100,1
+511,Ram Madhvani,7.7/10,100%,N/A/100,1
+512,Ben Smallbone,6.0/10,N/A%,4/100,1
+513,Pedro Almodóvar,7.2/10,80%,56/100,7
+514,Maren Ade,7.5/10,93%,93/100,1
+515,Michael Grandage,6.5/10,52%,56/100,1
+516,Mark Osborne,7.5/10,83%,49/100,3
+517,Nicolas Winding Refn,7.0/10,76%,42/100,2
+518,Ciro Guerra,7.9/10,96%,82/100,1
+519,Sajid,5.5/10,44%,N/A/100,5
+520, Farhad Samji,5.2/10,29%,N/A/100,1
+521,Ashutosh Gowariker,7.3/10,67%,54/100,3
+522,Matt Hullum,5.6/10,56%,42/100,1
+523,Morgan Neville,7.6/10,92%,45/100,2
+524,Andrew Wakefield,5.7/10,38%,24/100,1
+525,John Goldschmidt,6.2/10,53%,44/100,1
+526,Bejoy Nambiar,7.0/10,71%,N/A/100,1
+527,Bob Yari,6.3/10,N/A%,37/100,1
+528,Brad Knull,8.0/10,N/A%,N/A/100,1
+529,Kelly Reichardt,6.4/10,92%,82/100,1
+530,Dharmendra Suresh Desai,7.0/10,33%,N/A/100,1
+531,Jack Clayton,7.9/10,96%,N/A/100,1
+532,John Carpenter,7.0/10,N/A%,N/A/100,1
+533,John H. Lee,6.2/10,33%,5/100,1
+534,J.J. Abrams,7.5/10,85%,60/100,5
+535,Joss Whedon,7.7/10,79%,70/100,2
+536,Pete Docter,8.2/10,97%,87/100,3
+537, Ronnie Del Carmen,8.2/10,98%,94/100,1
+538,Sam Mendes,7.3/10,72%,45/100,6
+539,Christopher McQuarrie,7.0/10,68%,43/100,3
+540,Elizabeth Banks,5.3/10,34%,36/100,2
+541,Alejandro G. Iñárritu,7.7/10,77%,59/100,5
+542,Peyton Reed,6.4/10,57%,52/100,5
+543,Tim Johnson,6.7/10,56%,57/100,3
+544,Genndy Tartakovsky,6.8/10,50%,46/100,2
+545,Sam Taylor-Johnson,5.6/10,52%,56/100,2
+546,Paul Tibbitt,6.0/10,80%,62/100,1
+547, Mike Mitchell,6.0/10,80%,62/100,1
+548,George Miller,6.8/10,73%,30/100,3
+549,Steve Martino,6.8/10,62%,58/100,2
+550,Peter Sohn,6.7/10,76%,66/100,1
+551,Judd Apatow,6.5/10,76%,60/100,5
+552,Brad Bird,7.5/10,80%,46/100,4
+553,Etan Cohen,6.0/10,29%,34/100,1
+554,Alan Taylor,6.8/10,46%,46/100,2
+555,Olivier Megaton,6.2/10,25%,30/100,4
+556,Jason Moore,6.6/10,70%,62/100,2
+557,Walt Becker,5.4/10,11%,23/100,3
+558,Seth MacFarlane,6.4/10,49%,51/100,3
+559,Rob Letterman,5.7/10,44%,29/100,3
+560,Chris Columbus,6.5/10,48%,48/100,6
+561,Nancy Meyers,6.7/10,58%,45/100,5
+562,Andy Fickman,5.8/10,26%,35/100,6
+563,Adam McKay,6.9/10,72%,35/100,6
+564,Alex Kendrick,6.7/10,29%,34/100,4
+565,Gregory Jacobs,5.6/10,65%,6/100,1
+566,Jeremy Garelick,6.7/10,28%,35/100,1
+567,David M. Rosenthal,5.6/10,19%,36/100,1
+568,David O. Russell,7.2/10,79%,41/100,5
+569,Quentin Tarantino,8.0/10,83%,64/100,7
+570,Leigh Whannell,6.0/10,57%,52/100,1
+571,Gil Kenan,6.0/10,53%,58/100,3
+572,Lana Wachowski,6.5/10,51%,40/100,4
+573, Lilly Wachowski,6.5/10,51%,40/100,4
+574,Tom McCarthy,7.6/10,94%,64/100,4
+575,Joel Edgerton,7.0/10,92%,77/100,2
+576,Baltasar Kormákur,6.7/10,63%,41/100,3
+577,Michael Dougherty,6.2/10,65%,49/100,1
+578,Boaz Yakin,6.8/10,44%,46/100,4
+579,Lee Toland Krieger,7.2/10,56%,5/100,1
+580,John Crowley,6.8/10,69%,49/100,3
+581,George Tillman Jr.,6.8/10,41%,35/100,4
+582,Anne Fletcher,6.0/10,30%,30/100,5
+583,Peter Landesman,7.0/10,60%,55/100,1
+584,Ari Sandel,6.5/10,71%,56/100,1
+585,Levan Gabriadze,5.6/10,63%,59/100,1
+586,Doug Ellin,6.6/10,33%,38/100,1
+587,Jake Schreier,6.7/10,72%,62/100,2
+588,Neill Blomkamp,7.1/10,63%,6/100,3
+589,Ken Kwapis,6.2/10,49%,30/100,5
+590,Ericson Core,6.2/10,41%,48/100,2
+591,Ciarán Foy,5.3/10,13%,32/100,1
+592,Breck Eisner,6.2/10,42%,31/100,3
+593,John Erick Dowdle,6.3/10,46%,43/100,4
+594,Jonathan Demme,6.4/10,70%,70/100,5
+595,Tom Harper,4.9/10,22%,42/100,1
+596,Jessie Nelson,6.7/10,27%,16/100,2
+597,David Gelb,6.6/10,99%,40/100,2
+598,Travis Cluff,4.2/10,16%,3/100,1
+599, Chris Lofing,4.2/10,16%,3/100,1
+600,Aleksander Bach,5.7/10,9%,28/100,1
+601,Mike Binder,7.0/10,60%,38/100,3
+602,Cameron Crowe,6.7/10,49%,32/100,5
+603,Mark Burton,7.4/10,99%,8/100,1
+604, Richard Starzak,7.4/10,99%,8/100,1
+605,Richard Glatzer,7.5/10,86%,72/100,1
+606, Wash Westmoreland,7.5/10,86%,72/100,1
+607,Gregory Plotkin,4.6/10,14%,3/100,1
+608,Rick Famuyiwa,6.2/10,56%,56/100,3
+609,Sergei Bodrov,6.4/10,48%,38/100,2
+610,Mark Linfield,7.2/10,84%,64/100,2
+611, Alastair Fothergill,7.4/10,82%,39/100,2
+612,Camille Delamarre,5.5/10,21%,18/100,2
+613,Lenny Abrahamson,8.2/10,94%,86/100,1
+614,David Robert Mitchell,6.9/10,97%,83/100,1
+615,Nima Nourizadeh,6.3/10,36%,26/100,2
+616,John Wells,6.9/10,54%,56/100,3
+617,Gary Rydstrom,5.8/10,17%,25/100,1
+618,Steve Pink,6.0/10,46%,50/100,4
+619,Tarsem Singh,6.5/10,42%,39/100,5
+620,Thomas Vinterberg,7.0/10,85%,7/100,1
+621,Tom Hooper,7.5/10,82%,77/100,2
+622,Pierre Morel,6.8/10,48%,23/100,4
+623,Ken Scott,5.9/10,24%,38/100,2
+624,Nicholas Hytner,6.8/10,66%,44/100,3
+625,Asif Kapadia,8.2/10,93%,82/100,2
+626,Kabir Khan,8.0/10,100%,N/A/100,1
+627,Tadayoshi Yamamuro,7.4/10,81%,N/A/100,1
+628,Michael Mann,6.5/10,60%,30/100,5
+629,Jay Roach,6.5/10,59%,34/100,6
+630,David Koepp,6.3/10,55%,53/100,4
+631,Noah Baumbach,6.7/10,76%,76/100,7
+632,Paul Weitz,6.0/10,52%,52/100,8
+633,Alfonso Gomez-Rejon,6.7/10,76%,60/100,2
+634,Alejandro Monteverde,7.3/10,34%,25/100,2
+635,Erik Van Looy,6.3/10,13%,24/100,1
+636,Paul McGuigan,6.7/10,24%,32/100,4
+637,Dan Fogelman,7.0/10,77%,58/100,1
+638,Michael Polish,5.8/10,46%,49/100,3
+639,Rupert Goold,6.3/10,43%,5/100,1
+640,Sarah Gavron,6.8/10,70%,36/100,2
+641,Sooraj R. Barjatya,4.3/10,44%,N/A/100,2
+642,Andrew Haigh,7.0/10,97%,94/100,1
+643,Russell Crowe,7.0/10,62%,5/100,1
+644,Duke Johnson,7.2/10,91%,88/100,1
+645, Charlie Kaufman,7.2/10,91%,88/100,1
+646,Pedro Pablo Ibarra,6.2/10,50%,57/100,2
+647,Max Joseph,6.2/10,39%,46/100,1
+648,Jemaine Clement,7.6/10,96%,76/100,1
+649, Taika Waititi,7.6/10,96%,76/100,1
+650,Isabel Coixet,6.8/10,76%,64/100,3
+651,Dustin Stratton,N/A/10,N/A%,N/A/100,1
+652,Damián Szifron,8.0/10,95%,77/100,1
+653,Zoya Akhtar,7.4/10,86%,N/A/100,2
+654,Joe Menendez,5.8/10,63%,6/100,2
+655,Anand L. Rai,7.7/10,N/A%,N/A/100,1
+656,Barry Levinson,5.8/10,25%,19/100,4
+657,Paolo Sorrentino,7.5/10,82%,75/100,2
+658,Davis Guggenheim,6.9/10,70%,25/100,6
+659,Spike Lee,6.7/10,69%,56/100,6
+660,Jerry Jameson,5.4/10,26%,36/100,1
+661,James Vanderbilt,6.8/10,62%,66/100,1
+662,Jimmy Chin,7.7/10,90%,77/100,1
+663, Elizabeth Chai Vasarhelyi,7.7/10,90%,77/100,1
+664,Bernie Olaf,9.3/10,N/A%,N/A/100,1
+665,Angelo Pizzo,7.2/10,32%,34/100,1
+666,Daniel Barnz,6.1/10,34%,32/100,3
+667,Rik Swartzwelder,5.3/10,19%,29/100,1
+668,Dong-hoon Choi,7.3/10,82%,64/100,1
+669,Brian Helgeland,6.7/10,52%,44/100,4
+670,James Kent,7.3/10,83%,76/100,1
+671,Shoojit Sircar,7.6/10,92%,N/A/100,1
+672,Mark Neveldine,5.7/10,37%,32/100,5
+673,László Nemes,7.5/10,96%,89/100,1
+674,Geeta Patel,7.2/10,86%,7/100,1
+675, Ravi Patel,7.2/10,86%,7/100,1
+676,William Riead,5.9/10,28%,25/100,1
+677,Marielle Heller,6.9/10,94%,87/100,1
+678,S. Shankar,7.4/10,50%,N/A/100,1
+679,Maya Forbes,7.0/10,81%,64/100,1
+680,Hu Guan,7.0/10,N/A%,57/100,1
+681,Ramin Bahrani,7.0/10,92%,76/100,1
+682,Anees Bazmee,5.0/10,43%,N/A/100,2
+683,T.C. Christensen,5.0/10,N/A%,N/A/100,1
+684,Juliano Ribeiro Salgado,8.4/10,95%,83/100,1
+685, Wim Wenders,8.4/10,95%,83/100,1
+686,Richard Karpala,7.5/10,98%,N/A/100,1
+687,Zheng Xu,5.5/10,60%,N/A/100,1
+688,Crystal Moselle,7.0/10,85%,75/100,1
+689,Da-Mo Peng,6.8/10,N/A%,N/A/100,1
+690, Fei Yan,6.8/10,N/A%,N/A/100,1
+691,Yann Demange,7.2/10,95%,83/100,1
+692,Wuershan,6.0/10,56%,48/100,1
+693,Chad Burns,5.0/10,17%,N/A/100,1
+694,Severin Fiala,6.7/10,86%,8/100,1
+695, Veronika Franz,6.7/10,86%,8/100,1
+696,Kevin Macdonald,7.2/10,80%,70/100,6
+697,Catherine Hardwicke,6.3/10,50%,43/100,6
+698,Chris Dowling,6.6/10,N/A%,4/100,1
+699,Patrick Brice,6.0/10,82%,65/100,1
+700,Abderrahmane Sissako,7.2/10,99%,92/100,1
+701,Frédéric Tcheng,7.4/10,88%,38/100,2
+702,Richard Loncraine,6.2/10,48%,55/100,4
+703,Adriana Trigiani,5.6/10,N/A%,39/100,1
+704,Carey Scott,3.4/10,10%,2/100,1
+705,Phil Lord,7.2/10,88%,56/100,4
+706, Christopher Miller,7.2/10,88%,56/100,4
+707,Peter Jackson,7.9/10,74%,63/100,8
+708,Robert Stromberg,7.0/10,50%,56/100,1
+709,Don Hall,7.5/10,92%,52/100,3
+710,Jonathan Liebesman,5.7/10,21%,21/100,5
+711,Dean DeBlois,7.7/10,92%,74/100,3
+712,David Fincher,7.7/10,85%,48/100,7
+713,Neil Burger,7.2/10,61%,58/100,3
+714,Rob Marshall,6.6/10,52%,60/100,5
+715,Josh Boone,7.8/10,80%,69/100,1
+716,Angelina Jolie,7.2/10,51%,59/100,1
+717,Shawn Levy,6.1/10,43%,44/100,11
+718,Rob Minkoff,5.9/10,60%,54/100,4
+719,Noam Murro,6.2/10,46%,52/100,2
+720,Randall Wallace,6.7/10,58%,39/100,3
+721,Bobby Farrelly,5.8/10,45%,51/100,8
+722, Peter Farrelly,5.6/10,40%,46/100,9
+723,Nick Cassavetes,7.0/10,41%,31/100,5
+724,Eric Darnell,6.8/10,68%,30/100,4
+725, Simon J. Smith,6.7/10,73%,53/100,1
+726,Luke Greenfield,6.0/10,30%,32/100,4
+727,Brett Ratner,6.3/10,43%,40/100,10
+728,Peter Lepeniotis,5.8/10,11%,37/100,1
+729,Christopher Spencer,5.7/10,21%,37/100,1
+730,Roberts Gannaway,6.0/10,44%,48/100,1
+731,Gary Shore,6.3/10,24%,4/100,1
+732,Sam Miller,5.6/10,9%,26/100,1
+733,Stiles White,4.5/10,6%,38/100,1
+734,Graham Annable,6.8/10,75%,6/100,1
+735, Anthony Stacchi,6.5/10,62%,28/100,2
+736,R.J. Cutler,6.9/10,59%,58/100,2
+737,Jorge R. Gutiérrez,7.3/10,82%,67/100,1
+738,Steven Quale,5.8/10,42%,24/100,2
+739,David Dobkin,6.5/10,47%,50/100,5
+740,Frank Coraci,6.1/10,26%,21/100,5
+741,Phillip Noyce,6.8/10,69%,53/100,5
+742,Scott Waugh,6.5/10,24%,22/100,2
+743,Chad Stahelski,7.3/10,86%,68/100,1
+744, David Leitch,7.3/10,86%,68/100,1
+745,Guy Bolongaro,4.8/10,92%,N/A/100,1
+746,Charles Martin Smith,6.7/10,74%,61/100,2
+747,James Marsh,7.8/10,89%,80/100,2
+748,Rupert Wyatt,6.8/10,62%,62/100,2
+749,McG,6.5/10,53%,39/100,22
+750,Thomas Carter,6.7/10,42%,38/100,3
+751,Ivan Reitman,6.0/10,48%,17/100,4
+752,Michael Hoffman,6.9/10,43%,51/100,3
+753,Scott Frank,6.8/10,76%,65/100,2
+754,Tom Gormican,6.2/10,22%,36/100,1
+755,Chris Rock,5.8/10,58%,34/100,3
+756,Roger Donaldson,7.1/10,64%,60/100,5
+757,Shana Feste,6.3/10,19%,24/100,2
+758,Wally Pfister,6.3/10,20%,42/100,1
+759,Stuart Beattie,5.0/10,4%,3/100,1
+760,Renny Harlin,5.2/10,14%,22/100,6
+761,Alastair Fothergill,7.4/10,82%,51/100,4
+762, Keith Scholey,7.4/10,89%,68/100,1
+763, Adam Chapman,7.4/10,89%,68/100,1
+764,Anton Corbijn,6.5/10,76%,40/100,2
+765,Matt Bettinelli-Olpin,4.0/10,17%,34/100,1
+766, Tyler Gillett,4.0/10,17%,34/100,1
+767,Gina Prince-Bythewood,7.1/10,71%,65/100,2
+768,Vic Armstrong,3.0/10,1%,2/100,2
+769,Jason Reitman,7.1/10,77%,31/100,5
+770,Akiva Goldsman,6.2/10,13%,3/100,1
+771,Bennett Miller,7.3/10,91%,61/100,3
+772,Michaël R. Roskam,7.0/10,89%,69/100,1
+773,Lou Lombardo,5.2/10,N/A%,N/A/100,1
+774,John Pogue,5.0/10,37%,4/100,1
+775,Will Finn,5.5/10,35%,15/100,2
+776, Dan St. Pierre,5.7/10,28%,15/100,2
+777,Jason Bateman,6.7/10,65%,57/100,1
+778,Sebastian del Amo,6.6/10,45%,44/100,1
+779,Evan Goldberg,6.6/10,66%,60/100,2
+780, Seth Rogen,6.6/10,66%,60/100,2
+781,Blair Treu,7.0/10,18%,29/100,1
+782,J.C. Chandor,7.0/10,91%,81/100,3
+783,Diego Luna,6.4/10,39%,5/100,1
+784,Craig Johnson,6.8/10,87%,74/100,1
+785,Hayao Miyazaki,8.1/10,91%,68/100,4
+786,Joon-ho Bong,7.0/10,95%,84/100,1
+787,Justin Simien,6.2/10,91%,79/100,1
+788,Israel Horovitz,6.4/10,60%,52/100,1
+789,Mike Leigh,7.2/10,93%,67/100,4
+790,Pawel Pawlikowski,7.1/10,92%,46/100,2
+791,John Turturro,6.2/10,53%,58/100,1
+792,John Michael McDonagh,7.3/10,92%,78/100,2
+793,Xavier Dolan,8.0/10,89%,74/100,1
+794,Madlena Preston,N/A/10,72%,N/A/100,1
+795,Don McKellar,7.0/10,60%,57/100,1
+796,Rob Thomas,6.8/10,79%,62/100,1
+797,Rowan Joffe,6.3/10,36%,4/100,1
+798,Jon Stewart,6.6/10,77%,67/100,1
+799,Gillian Robespierre,6.8/10,90%,76/100,1
+800,Dustin Marcellino,5.0/10,6%,25/100,1
+801,Manny Rodriguez,7.2/10,53%,56/100,1
+802, Jay Lavender,7.2/10,53%,56/100,1
+803,Laura Poitras,8.0/10,96%,88/100,1
+804,Grégory Levasseur,4.6/10,13%,24/100,1
+805,Philippe Falardeau,7.0/10,84%,66/100,2
+806,Gareth Evans,7.8/10,82%,40/100,2
+807,Masahiro Hosoda,7.2/10,N/A%,N/A/100,1
+808,Siddharth Anand,5.8/10,52%,N/A/100,2
+809,Sajid Nadiadwala,5.4/10,60%,N/A/100,1
+810,Tommy Lee Jones,6.6/10,81%,68/100,1
+811,JK Youn,7.8/10,71%,N/A/100,1
+812,Ira Sachs,6.5/10,74%,74/100,2
+813,Abhishek Varman,6.9/10,N/A%,N/A/100,1
+814,Fred Schepisi,6.4/10,50%,57/100,3
+815,Christian Keller,6.5/10,100%,N/A/100,1
+816,Kevin Smith,6.3/10,49%,33/100,7
+817,Teller,7.8/10,90%,76/100,1
+818,Daniel Lusko,3.6/10,0%,N/A/100,1
+819,Paola di Florio,7.3/10,67%,54/100,1
+820, Lisa Leeman,7.3/10,67%,54/100,1
+821,Stephanie Soechtig,7.7/10,80%,7/100,1
+822,John Maloof,7.7/10,95%,75/100,1
+823, Charlie Siskel,7.7/10,95%,75/100,1
+824,Matthew Warchus,7.8/10,92%,79/100,3
+825,Jean-Pierre Dardenne,7.4/10,96%,88/100,2
+826, Luc Dardenne,7.4/10,96%,88/100,2
+827,Steven Knight,7.0/10,91%,8/100,1
+828,Albert Maysles,7.9/10,100%,8/100,1
+829, David Maysles,7.9/10,100%,8/100,1
+830, Charlotte Zwerin,7.9/10,100%,8/100,1
+831,Sohail Khan,5.3/10,22%,N/A/100,1
+832,Tengiz Abuladze,8.4/10,67%,N/A/100,1
+833,Casey La Scala,5.2/10,32%,20/100,2
+834,David Michôd,6.8/10,80%,74/100,2
+835,Mark Schmidt,6.2/10,46%,44/100,1
+836,Andrey Zvyagintsev,7.8/10,99%,87/100,2
+837,Atom Egoyan,6.3/10,45%,49/100,3
+838,Lynn Shelton,6.6/10,74%,68/100,2
+839,Jim Wilson,6.6/10,17%,37/100,1
+840,Vishal Bhardwaj,7.9/10,91%,N/A/100,3
+841,Paul Haggis,7.2/10,56%,56/100,4
+842,Arseny Syuhin,N/A/10,51%,N/A/100,1
+843,Richard Ramsey,6.0/10,31%,42/100,1
+844,Chris Buck,7.1/10,84%,69/100,2
+845, Jennifer Lee,7.5/10,90%,74/100,1
+846,Pierre Coffin,7.0/10,68%,60/100,4
+847, Chris Renaud,7.6/10,78%,67/100,2
+848,Alfonso Cuarón,7.7/10,92%,82/100,4
+849,Dan Scanlon,7.3/10,79%,65/100,1
+850,Justin Lin,6.7/10,55%,44/100,5
+851,Sam Raimi,6.7/10,79%,68/100,5
+852,Marc Forster,7.2/10,66%,48/100,7
+853,Kirk De Micco,5.8/10,53%,46/100,2
+854, Chris Sanders,7.5/10,85%,67/100,3
+855,Baz Luhrmann,7.2/10,60%,58/100,3
+856,Dennis Dugan,5.5/10,14%,22/100,8
+857,Cody Cameron,6.4/10,71%,59/100,1
+858, Kris Pearn,6.4/10,71%,59/100,1
+859,Lee Daniels,7.2/10,72%,66/100,1
+860,Klay Hall,5.7/10,25%,39/100,1
+861,Raja Gosnell,5.0/10,26%,24/100,6
+862,Thor Freudenthal,5.8/10,47%,33/100,3
+863,John Moore,5.7/10,25%,34/100,5
+864,Jon Turteltaub,6.5/10,41%,45/100,4
+865,Steve McQueen,7.6/10,87%,84/100,2
+866,Jimmy Hayward,5.3/10,16%,36/100,2
+867,Dean Parisot,6.3/10,36%,47/100,2
+868,Ruben Fleischer,6.8/10,55%,42/100,3
+869,Laurent Bouzereau,7.4/10,N/A%,N/A/100,1
+870,Eugenio Derbez,7.6/10,55%,55/100,1
+871,Ric Roman Waugh,6.5/10,57%,5/100,1
+872,David Twohy,6.7/10,51%,50/100,4
+873,Carl Rinsch,6.3/10,15%,28/100,1
+874,Barry Cook,6.1/10,58%,53/100,2
+875, Neil Nightingale,5.2/10,24%,37/100,1
+876,Kimberly Peirce,6.2/10,57%,30/100,2
+877,John Luessenhop,5.5/10,24%,45/100,2
+878,Robert Schwentke,6.5/10,40%,33/100,4
+879, David Zucker,3.5/10,4%,N/A/100,1
+880,Harald Zwart,5.6/10,24%,30/100,4
+881,Peter Segal,6.5/10,40%,47/100,5
+882,Morgan Spurlock,5.6/10,63%,61/100,2
+883,Andrew Niccol,6.5/10,29%,46/100,4
+884,Spike Jonze,7.5/10,86%,33/100,3
+885,Mikael Håfström,6.5/10,43%,39/100,4
+886,Joseph Gordon-Levitt,6.6/10,80%,66/100,1
+887,Don Scardino,5.9/10,37%,44/100,1
+888,Justin Zackham,5.6/10,8%,28/100,1
+889,Nat Faxon,7.4/10,85%,68/100,1
+890, Jim Rash,7.4/10,85%,68/100,1
+891,Brian Percival,7.6/10,46%,53/100,1
+892,Gary Fleder,6.7/10,44%,28/100,5
+893,Allen Hughes,6.6/10,42%,51/100,4
+894,Richard LaGravenese,7.0/10,68%,55/100,4
+895,Dustin Hoffman,6.8/10,80%,64/100,1
+896,Nicole Holofcener,6.5/10,90%,75/100,3
+897,Scott Stewart,5.7/10,25%,14/100,3
+898,Guy Bauer,7.8/10,N/A%,N/A/100,1
+899,Joshua Michael Stern,6.0/10,34%,46/100,2
+900,Richard Curtis,7.6/10,64%,56/100,3
+901,Ed Gass-Donnelly,4.0/10,16%,35/100,1
+902,Harmony Korine,5.3/10,67%,63/100,1
+903,Jee-woon Kim,6.4/10,60%,54/100,1
+904,Courtney Solomon,4.4/10,8%,21/100,3
+905,Walter Hill,5.6/10,35%,38/100,3
+906,Benson Lee,5.0/10,6%,29/100,1
+907, Steven Brill,4.3/10,4%,8/100,1
+908, Steve Carr,4.3/10,4%,8/100,1
+909, Rusty Cundieff,4.3/10,4%,8/100,1
+910, James Duffy,4.3/10,4%,8/100,1
+911, Griffin Dunne,4.3/10,4%,8/100,1
+912, Patrik Forsberg,4.3/10,4%,8/100,1
+913, Will Graham,4.3/10,4%,8/100,1
+914, James Gunn,4.3/10,4%,8/100,1
+915, Brett Ratner,5.3/10,20%,28/100,2
+916, Jonathan van Tulleken,4.3/10,4%,8/100,1
+917, Bob Odenkirk,4.3/10,4%,8/100,1
+918,Vijay Krishna Acharya,5.4/10,80%,6/100,1
+919,Bille August,6.9/10,80%,N/A/100,1
+920,Robert Rodriguez,6.4/10,67%,40/100,7
+921,Stephen Judson,6.7/10,100%,N/A/100,1
+922, Greg MacGillivray,6.7/10,100%,N/A/100,1
+923,Robert Luketic,6.0/10,29%,32/100,7
+924,Kasi Lemmons,6.0/10,66%,58/100,2
+925,Kar-Wai Wong,7.3/10,84%,79/100,3
+926,Robert Tinnell,5.3/10,N/A%,N/A/100,1
+927,Robert Redford,6.5/10,45%,52/100,4
+928,Bob Francesconi,4.6/10,85%,N/A/100,1
+929, David Stern,4.6/10,85%,N/A/100,1
+930,Ayan Mukherjee,7.0/10,N/A%,N/A/100,1
+931,Maggie Carey,5.8/10,53%,6/100,1
+932,Nimród Antal,6.4/10,60%,18/100,4
+933,Peter Webber,6.5/10,40%,52/100,3
+934,Fisher Stevens,6.5/10,37%,4/100,1
+935,Lake Bell,6.7/10,92%,79/100,1
+936,David Boyd,6.0/10,45%,N/A/100,1
+937,Youssef Delara,5.7/10,45%,57/100,1
+938, Michael D. Olmos,5.7/10,45%,57/100,1
+939,Brad J. Silverman,6.2/10,50%,39/100,1
+940,Wayne Blair,7.0/10,91%,67/100,1
+941,Dror Moreh,7.6/10,93%,9/100,1
+942,Steve Race,4.5/10,6%,23/100,1
+943,Aditya Datt,7.0/10,N/A%,N/A/100,1
+944,Zal Batmanglij,6.8/10,74%,68/100,1
+945,Gilles Bourdos,6.5/10,70%,64/100,1
+946,John Stephenson,6.0/10,22%,33/100,1
+947,Abdellatif Kechiche,7.8/10,90%,88/100,1
+948,Rakesh Roshan,5.8/10,86%,68/100,2
+949,Jerusha Hess,6.3/10,30%,42/100,1
+950,Garrett Batty,5.6/10,60%,N/A/100,1
+951,Richard Robbins,7.0/10,89%,59/100,1
+952,Paul Andrew Williams,7.0/10,65%,57/100,1
+953,Rakeysh Omprakash Mehra,8.3/10,87%,N/A/100,2
+954,Susanne Bier,7.3/10,76%,53/100,4
+955,Sarah Polley,7.3/10,88%,55/100,3
+956,Abbas Alibhai Burmawalla,5.2/10,N/A%,N/A/100,1
+957, Mastan Alibhai Burmawalla,5.2/10,N/A%,N/A/100,1
+958,Carl Franklin,6.4/10,71%,59/100,3
+959,Henry Alex Rubin,7.7/10,82%,76/100,2
+960,Shari Springer Berman,6.5/10,58%,31/100,3
+961, Robert Pulcini,6.5/10,58%,31/100,3
+962,Michael Landon Jr.,6.0/10,18%,9/100,1
+963,Ralph Fiennes,6.0/10,77%,75/100,1
+964,Jacob Kornbluth,8.0/10,90%,68/100,1
+965,Rob Zombie,6.1/10,41%,45/100,6
+966,Brian Cass,7.7/10,23%,N/A/100,1
+967,Michael McGowan,7.4/10,94%,72/100,1
+968,Abhishek Kapoor,7.6/10,73%,4/100,1
+969,Scott McGehee,6.6/10,70%,69/100,3
+970, David Siegel,6.6/10,70%,69/100,3
+971,Stuart Blumberg,6.4/10,50%,54/100,1
+972,Todd Robinson,5.9/10,25%,4/100,1
+973,John Krokidas,6.5/10,75%,65/100,1
+974,Don Schain,3.3/10,N/A%,N/A/100,1
+975,Gorô Miyazaki,7.5/10,84%,7/100,1
+976,Mark Andrews,7.0/10,78%,69/100,1
+977, Brenda Chapman,7.0/10,78%,69/100,1
+978, Steve Purcell,7.0/10,78%,69/100,1
+979, Tom McGrath,6.8/10,66%,23/100,3
+980,Rich Moore,7.8/10,92%,75/100,2
+981, Mike Thurmeier,6.8/10,42%,27/100,2
+982,Matthew Campagna,N/A/10,N/A%,N/A/100,1
+983,Tony Gilroy,6.7/10,70%,52/100,3
+984,Peter Ramsey,7.3/10,74%,57/100,1
+985,Simon West,6.0/10,37%,28/100,4
+986,Mike McCoy,6.5/10,26%,4/100,1
+987, Scott Waugh,6.5/10,26%,4/100,1
+988,Josh Trank,7.0/10,85%,69/100,1
+989,Måns Mårlind,6.4/10,27%,39/100,1
+990, Björn Stein,6.4/10,27%,39/100,1
+991,Scott Hicks,6.6/10,37%,33/100,3
+992,Larry Charles,7.1/10,72%,68/100,3
+993,Len Wiseman,6.8/10,40%,48/100,4
+994,Jon Hurwitz,6.7/10,44%,49/100,1
+995, Hayden Schlossberg,6.7/10,44%,49/100,1
+996,Chris Butler,7.0/10,87%,72/100,1
+997, Sam Fell,6.8/10,80%,73/100,2
+998,James Watkins,6.4/10,67%,62/100,1
+999,Peter Hedges,6.8/10,61%,40/100,3
+1000, Brian Taylor,5.8/10,42%,30/100,4
+1001,Joe Carnahan,6.9/10,60%,41/100,4
+1002,Anthony Hemingway,5.9/10,40%,46/100,1
+1003,Ole Bornedal,5.9/10,40%,45/100,1
+1004,Dan Bradley,5.4/10,13%,3/100,1
+1005,Drew Goddard,7.0/10,92%,72/100,1
+1006,Adam Shankman,6.0/10,35%,29/100,8
+1007,Robert Lorenz,6.8/10,51%,58/100,1
+1008, John Sullivan,5.0/10,25%,28/100,1
+1009,Mark Tonderai,5.6/10,11%,3/100,1
+1010,Peter Lord,6.8/10,92%,88/100,2
+1011, Jeff New,6.7/10,86%,N/A/100,1
+1012,Todd Graff,6.1/10,59%,55/100,3
+1013, Mark Linfield,7.2/10,75%,57/100,1
+1014, Lana Wachowski,7.5/10,66%,55/100,1
+1015,Julie Anne Robinson,5.6/10,11%,28/100,2
+1016,Dan Cutforth,5.9/10,75%,57/100,1
+1017, Jane Lipsitz,5.9/10,75%,57/100,1
+1018,Salim Akil,5.7/10,58%,55/100,2
+1019,Asger Leth,6.6/10,31%,4/100,1
+1020,Brian Robbins,5.2/10,19%,35/100,7
+1021,Bradley Parker,5.0/10,17%,N/A/100,1
+1022,David Wain,6.2/10,68%,30/100,2
+1023,James McTeigue,6.7/10,35%,46/100,4
+1024,RZA,5.4/10,49%,5/100,1
+1025,Andrew Dominik,6.8/10,75%,66/100,2
+1026,Steve Saint Leger,6.0/10,36%,48/100,1
+1027, James Mather,6.0/10,36%,48/100,1
+1028,David Palmer,6.0/10,49%,5/100,1
+1029, Dax Shepard,6.0/10,49%,5/100,1
+1030,Pete Travis,6.8/10,56%,32/100,2
+1031,Gabriele Muccino,7.1/10,32%,42/100,3
+1032,Benh Zeitlin,7.3/10,86%,86/100,1
+1033,Chris Kentis,5.5/10,58%,56/100,2
+1034, Laura Lau,5.3/10,43%,49/100,1
+1035,Andrew Adamson,7.1/10,73%,60/100,5
+1036,Heitor Dhalia,5.9/10,11%,36/100,1
+1037,Brian Klugman,7.0/10,24%,37/100,1
+1038, Lee Sternthal,7.0/10,24%,37/100,1
+1039,Josh Schwartz,5.4/10,25%,37/100,1
+1040,Nicholas Jarecki,6.6/10,87%,73/100,1
+1041,Gus Van Sant,7.2/10,76%,55/100,5
+1042,Jennifer Westfeldt,6.2/10,66%,55/100,1
+1043,Marcus Dunstan,6.2/10,34%,34/100,2
+1044,Michael Haneke,7.4/10,76%,75/100,4
+1045,Sacha Gervasi,6.8/10,61%,55/100,1
+1046,Michael Apted,6.6/10,49%,50/100,5
+1047, Curtis Hanson,7.2/10,31%,45/100,1
+1048,Ben Lewin,7.2/10,93%,79/100,1
+1049,Matt Piedmont,5.5/10,41%,52/100,1
+1050,Dean Wright,6.6/10,20%,35/100,1
+1051,Todd Lincoln,4.0/10,3%,8/100,1
+1052,Jay Duplass,6.4/10,80%,40/100,2
+1053, Mark Duplass,6.4/10,80%,40/100,2
+1054,Michael Dowse,6.5/10,55%,53/100,2
+1055,Mabrouk El Mechri,4.9/10,5%,22/100,1
+1056,Malik Bendjelloul,8.2/10,94%,79/100,1
+1057,Darrel Campbell,4.0/10,0%,N/A/100,1
+1058, Kevin McAfee,4.0/10,0%,N/A/100,1
+1059,Yash Chopra,7.3/10,92%,67/100,2
+1060,Rodrigo García,7.0/10,68%,60/100,2
+1061,Reema Kagti,7.3/10,83%,65/100,1
+1062,Anurag Basu,7.0/10,84%,62/100,2
+1063,Ron Fricke,8.5/10,77%,65/100,1
+1064,Arbaaz Khan,4.9/10,40%,N/A/100,1
+1065,Lauren Greenfield,7.0/10,94%,8/100,1
+1066, Seth Barrish,6.8/10,84%,7/100,1
+1067,Jacques Audiard,7.4/10,88%,77/100,3
+1068,Joseph Cedar,7.0/10,90%,82/100,1
+1069,William Friedkin,6.3/10,51%,43/100,4
+1070,Karan Malhotra,7.0/10,100%,N/A/100,1
+1071,Steve Rash,5.5/10,29%,22/100,2
+1072,Tanya Wexler,6.7/10,57%,53/100,1
+1073,Sajid Khan,5.6/10,N/A%,N/A/100,3
+1074,Benoît Jacquot,6.3/10,92%,67/100,1
+1075,Yaron Zilberman,7.0/10,77%,67/100,1
+1076,Jeff Orlowski,7.8/10,96%,75/100,1
+1077,Christian Fry,7.2/10,N/A%,N/A/100,1
+1078, Jean-Jacques Mantello,7.2/10,N/A%,N/A/100,1
+1079,Lorraine Lévy,7.4/10,80%,63/100,1
+1080,Jamie Travis,6.0/10,56%,55/100,1
+1081,Homi Adajania,6.2/10,N/A%,N/A/100,1
+1082,Neema Barnette,5.0/10,20%,29/100,1
+1083,Matthew Diamond,6.3/10,27%,32/100,1
+1084,Agnieszka Holland,7.3/10,88%,74/100,1
+1085,Lisa Immordino Vreeland,7.5/10,94%,69/100,1
+1086, Bent-Jorgen Perlmu,7.5/10,94%,69/100,1
+1087, Frédéric Tcheng,7.5/10,94%,69/100,1
+1088,Bess Kargman,7.6/10,93%,72/100,1
+1089,Christian Petzold,7.2/10,93%,86/100,1
+1090,Whit Stillman,5.7/10,75%,67/100,1
+1091,Brent McCorkle,7.3/10,70%,N/A/100,1
+1092,John Lasseter,6.7/10,56%,65/100,2
+1093, Brad Lewis,6.2/10,39%,57/100,1
+1094,Joe Johnston,6.3/10,53%,51/100,4
+1095,Jennifer Yuh Nelson,7.2/10,84%,66/100,2
+1096,Chris Miller,6.3/10,62%,62/100,2
+1097,Tim Hill,5.4/10,27%,16/100,3
+1098,Tomislav Mrsic,7.2/10,N/A%,N/A/100,1
+1099,Michel Gondry,7.0/10,73%,54/100,5
+1100, Gary Eck,5.9/10,46%,5/100,1
+1101, David Peers,5.9/10,46%,5/100,1
+1102,Craig Brewer,6.5/10,68%,55/100,2
+1103,Sarah Smith,7.0/10,92%,69/100,1
+1104, Barry Cook,7.0/10,92%,69/100,1
+1105,Michel Hazanavicius,7.9/10,95%,89/100,1
+1106,Wes Craven,5.9/10,54%,35/100,6
+1107,John Whitesell,4.9/10,14%,30/100,5
+1108,Christian E. Christiansen,4.9/10,4%,23/100,1
+1109,Tom Hanks,6.0/10,36%,4/100,1
+1110,Todd Strauss-Schulson,6.3/10,68%,6/100,1
+1111,Jason Winer,5.7/10,25%,36/100,1
+1112,Stephen Daldry,7.5/10,68%,46/100,4
+1113,Phyllida Lloyd,6.4/10,52%,30/100,2
+1114,John Singleton,6.0/10,45%,34/100,5
+1115,Stephen J. Anderson,7.1/10,79%,40/100,2
+1116,Gary McKendry,6.5/10,25%,44/100,1
+1117,Dominic Sena,5.8/10,14%,30/100,3
+1118,Jesse Peretz,6.0/10,44%,19/100,2
+1119,Troy Nixey,5.6/10,58%,56/100,1
+1120,Alister Grierson,5.9/10,30%,42/100,1
+1121,Thomas Bezucha,6.0/10,46%,50/100,2
+1122,Chris Gorak,4.9/10,12%,8/100,1
+1123,Simon Wells,5.7/10,33%,46/100,2
+1124,Jim Sheridan,6.5/10,44%,54/100,4
+1125,Marcus Nispel,5.7/10,29%,36/100,3
+1126,David R. Ellis,5.5/10,44%,25/100,5
+1127,Gonzalo López-Gallego,5.2/10,24%,24/100,1
+1128,Matthijs van Heijningen Jr.,6.2/10,35%,49/100,1
+1129,Keith Scholey,7.5/10,80%,37/100,2
+1130,John Schultz,4.5/10,30%,32/100,4
+1131,Mark Mylod,6.0/10,24%,35/100,1
+1132,Terrence Malick,6.8/10,73%,77/100,2
+1133,Bruce Robinson,6.2/10,50%,56/100,1
+1134,Kevin Tancharoen,5.2/10,42%,44/100,2
+1135, Jennifer Arnold,5.4/10,60%,48/100,1
+1136,Cary Joji Fukunaga,7.5/10,86%,76/100,2
+1137,Patrick Lussier,5.2/10,46%,35/100,2
+1138,Rod Lurie,6.6/10,57%,50/100,4
+1139,Mike Disa,4.8/10,11%,2/100,1
+1140,Joe Nussbaum,5.7/10,29%,28/100,3
+1141,Douglas McGrath,6.4/10,56%,38/100,3
+1142,Oliver Parker,6.6/10,48%,26/100,2
+1143,Gilles Paquet-Brenner,7.5/10,72%,59/100,1
+1144,Matthew Dyas,7.6/10,100%,N/A/100,1
+1145,David Cronenberg,7.1/10,84%,62/100,4
+1146,Werner Herzog,7.3/10,91%,80/100,4
+1147,Paul Johansson,5.7/10,10%,28/100,1
+1148,Emilio Estevez,7.2/10,64%,59/100,2
+1149,Matt Russell,6.0/10,15%,37/100,1
+1150,Cindy Meehl,7.6/10,89%,76/100,1
+1151,Xavier Beauvois,7.2/10,92%,86/100,1
+1152,Farhan Akhtar,7.1/10,75%,49/100,2
+1153,Wim Wenders,8.1/10,95%,83/100,2
+1154,Drake Doremus,6.7/10,72%,68/100,1
+1155,Angel Gracia,5.5/10,21%,39/100,1
+1156,Lars von Trier,7.7/10,72%,7/100,3
+1157,Sean Durkin,6.9/10,90%,75/100,1
+1158,Dan Rush,6.4/10,75%,65/100,1
+1159,Peter Weir,7.3/10,80%,37/100,2
+1160,Roman Polanski,7.3/10,73%,55/100,5
+1161,Tom Brady,4.3/10,10%,21/100,3
+1162,Anubhav Sinha,4.8/10,67%,6/100,1
+1163,David G. Evans,6.5/10,35%,43/100,1
+1164,Carl Roddam,N/A/10,N/A%,N/A/100,1
+1165, Deon Eben van Der Merwe,N/A/10,N/A%,N/A/100,1
+1166,Tim Chambers,6.5/10,46%,49/100,1
+1167,Siddique,4.6/10,N/A%,4/100,1
+1168,Chris Weitz,6.1/10,54%,44/100,5
+1169,Lynne Ramsay,7.5/10,76%,68/100,1
+1170,François Ozon,6.8/10,85%,56/100,4
+1171,Tom Shadyac,6.4/10,29%,36/100,4
+1172,Abhinay Deo,7.6/10,93%,66/100,1
+1173, Akshat Verma,7.6/10,93%,66/100,1
+1174,Giuseppe Capotondi,6.7/10,82%,72/100,1
+1175,Richard Press,7.9/10,99%,76/100,1
+1176,Gavin Wiesen,6.6/10,18%,36/100,1
+1177,Beto Gómez,6.0/10,N/A%,56/100,1
+1178,Abbas Kiarostami,7.3/10,89%,82/100,1
+1179,Lee Tamahori,6.0/10,38%,46/100,5
+1180,Wayne Wang,5.9/10,41%,47/100,5
+1181,Alejandro Springall,5.8/10,N/A%,N/A/100,1
+1182,Mike Cahill,7.0/10,64%,66/100,1
+1183,Michael Rapaport,7.7/10,90%,76/100,1
+1184,Jonathan Hensleigh,6.8/10,45%,19/100,2
+1185,Kevin Munroe,5.7/10,21%,4/100,2
+1186,Larysa Kondracki,7.2/10,74%,59/100,1
+1187,Dennis Cooper,4.8/10,N/A%,N/A/100,1
+1188,Rohit Dhawan,5.9/10,N/A%,N/A/100,1
+1189,Roland Joffé,5.2/10,11%,28/100,2
+1190,Joe Cornish,6.6/10,90%,75/100,1
+1191,David Slade,6.2/10,56%,56/100,3
+1192,Nathan Greno,7.8/10,89%,7/100,1
+1193, Byron Howard,7.8/10,89%,7/100,1
+1194,John G. Avildsen,7.2/10,88%,59/100,1
+1195,Sylvester Stallone,6.9/10,52%,51/100,3
+1196,Eric Brevig,5.2/10,37%,46/100,2
+1197,Michael Patrick King,5.0/10,32%,40/100,2
+1198,Albert Hughes,6.8/10,52%,54/100,2
+1199, Allen Hughes,6.7/10,47%,52/100,3
+1200,Mike Newell,6.8/10,46%,25/100,4
+1201,Tod Williams,6.2/10,62%,60/100,2
+1202,Tony Scott,6.9/10,62%,55/100,5
+1203,Ryan Murphy,6.0/10,34%,28/100,2
+1204,Florian Henckel von Donnersmarck,7.2/10,56%,63/100,2
+1205,Andy Tennant,6.0/10,32%,38/100,4
+1206,Samuel Bayer,5.2/10,15%,35/100,1
+1207,Michael Lembeck,5.4/10,33%,40/100,4
+1208,Gary Winick,6.1/10,54%,32/100,5
+1209,Kevin Greutert,5.8/10,24%,14/100,2
+1210,David Mallet,7.4/10,N/A%,N/A/100,2
+1211,Neil LaBute,5.6/10,58%,42/100,5
+1212,Daniel Stamm,5.6/10,72%,63/100,1
+1213,Steve Antin,6.4/10,36%,47/100,1
+1214,Alan Poul,5.3/10,18%,34/100,1
+1215,Jason Friedberg,2.4/10,3%,7/100,5
+1216, Aaron Seltzer,2.3/10,2%,7/100,4
+1217,Tom Dey,5.5/10,34%,40/100,4
+1218,Mark Steven Johnson,5.4/10,29%,34/100,3
+1219,Jim Field Smith,6.4/10,58%,46/100,1
+1220,James L. Brooks,5.9/10,42%,47/100,2
+1221,Ethan Maniquis,6.6/10,72%,6/100,1
+1222, Robert Rodriguez,7.3/10,74%,40/100,2
+1223,Elizabeth Allen Rosenbaum,5.9/10,60%,30/100,2
+1224,Anand Tucker,6.6/10,51%,48/100,3
+1225,Anthony Bell,5.3/10,16%,36/100,1
+1226, Ben Gluck,5.3/10,16%,36/100,1
+1227,Alexandre Aja,6.2/10,44%,46/100,4
+1228,Erik White,4.9/10,34%,5/100,1
+1229,Brian Levant,4.7/10,18%,28/100,4
+1230,Sylvain White,5.8/10,37%,44/100,2
+1231,Sanaa Hamri,6.3/10,57%,44/100,3
+1232,Colin Strause,4.4/10,16%,26/100,1
+1233, Greg Strause,4.4/10,16%,26/100,1
+1234,Lisa Cholodenko,6.7/10,80%,46/100,2
+1235,Jacques Perrin,7.9/10,88%,78/100,2
+1236, Jacques Cluzau,7.9/10,88%,78/100,2
+1237,Allen Coulter,6.8/10,48%,33/100,2
+1238,Nanette Burstein,6.8/10,53%,40/100,2
+1239,Roger Kumble,4.8/10,27%,34/100,4
+1240,Vincenzo Natali,6.5/10,80%,66/100,2
+1241,Miguel Sapochnik,6.3/10,22%,32/100,1
+1242,Christian Alvart,6.5/10,25%,26/100,2
+1243,Tom Vaughan,6.2/10,28%,40/100,2
+1244,Aaron Schneider,7.0/10,85%,77/100,1
+1245,Jorma Taccone,6.1/10,62%,56/100,2
+1246,Daniel Alfredson,7.2/10,61%,36/100,2
+1247,Thomas Balmès,7.0/10,68%,63/100,1
+1248,Tony Goldwyn,6.7/10,53%,40/100,3
+1249,Debra Granik,7.2/10,94%,9/100,1
+1250,Juan José Campanella,8.2/10,91%,8/100,1
+1251,Anna Boden,7.1/10,81%,76/100,3
+1252, Ryan Fleck,7.1/10,81%,76/100,3
+1253,Ronan Chapalain,6.9/10,N/A%,N/A/100,1
+1254, Pascal Vuong,6.9/10,N/A%,N/A/100,1
+1255,Sngmoo Lee,6.3/10,28%,45/100,1
+1256,Bruce Beresford,7.2/10,60%,55/100,2
+1257,Brian Koppelman,6.2/10,50%,36/100,2
+1258, David Levien,6.2/10,50%,36/100,2
+1259,Charles Ferguson,8.3/10,97%,88/100,2
+1260,Floria Sigismondi,6.6/10,69%,65/100,1
+1261,Banksy,8.0/10,96%,85/100,1
+1262,Ricki Stern,7.4/10,92%,79/100,1
+1263, Anne Sundberg,7.4/10,92%,79/100,1
+1264,David Nixon,6.3/10,25%,3/100,1
+1265, Patrick Dough,6.3/10,25%,3/100,1
+1266,Mark Romanek,7.0/10,71%,66/100,2
+1267,Sylvain Chomet,7.5/10,88%,52/100,3
+1268,John Cameron Mitchell,7.1/10,82%,75/100,3
+1269,Daniel Barber,7.2/10,64%,55/100,1
+1270,Christian Duguay,5.7/10,12%,5/100,3
+1271,Ruba Nadda,6.7/10,81%,67/100,1
+1272,Prakash Jha,7.0/10,14%,N/A/100,1
+1273,Derrick Borte,6.5/10,63%,55/100,1
+1274,Tim Hetherington,7.5/10,96%,85/100,1
+1275, Sebastian Junger,7.5/10,96%,85/100,1
+1276,Abhinav Kashyap,6.3/10,N/A%,N/A/100,1
+1277,Jean-Pierre Jeunet,7.5/10,76%,69/100,2
+1278,Nigel Cole,6.9/10,64%,45/100,4
+1279,Farah Khan,5.4/10,44%,N/A/100,3
+1280,Peter Bratt,7.0/10,50%,47/100,1
+1281,Rodrigo Cortés,7.0/10,86%,65/100,1
+1282,George Hickenlooper,6.4/10,36%,36/100,3
+1283,William Dear,7.0/10,57%,42/100,1
+1284,James Cameron,7.8/10,83%,83/100,1
+1285, Bob Peterson,8.3/10,98%,88/100,1
+1286,Betty Thomas,5.4/10,34%,22/100,4
+1287, Mike Thurm,6.8/10,42%,27/100,2
+1288,Busby Berkeley,6.2/10,N/A%,N/A/100,1
+1289,Stephen Sommers,6.0/10,41%,38/100,3
+1290, Eli Roth,8.0/10,86%,73/100,2
+1291,Hoyt Yeatman,5.0/10,22%,4/100,1
+1292,Peter Billingsley,5.5/10,11%,23/100,1
+1293,Oren Peli,6.3/10,83%,68/100,1
+1294,Andrew L. Stone,6.2/10,N/A%,N/A/100,1
+1295,Henry Selick,6.2/10,54%,6/100,2
+1296,Steve Shill,4.9/10,19%,25/100,1
+1297,Shirley MacLaine,6.2/10,20%,N/A/100,1
+1298,Peter Cornwell,5.9/10,16%,33/100,1
+1299,Brad Silberling,6.1/10,44%,46/100,2
+1300,Patrick Tatopoulos,6.6/10,29%,44/100,1
+1301,P.J. Hogan,5.9/10,25%,38/100,1
+1302,Harold Ramis,5.8/10,30%,46/100,4
+1303,David S. Goyer,5.7/10,18%,26/100,3
+1304,Jorge Blanco,6.0/10,21%,39/100,1
+1305, Javier Aba,6.0/10,21%,39/100,1
+1306, Marcos Martínez,6.0/10,21%,39/100,1
+1307,Jonathan Mostow,6.4/10,59%,58/100,3
+1308,Howard Hall,7.6/10,94%,77/100,1
+1309,Phil Traill,4.8/10,7%,7/100,1
+1310,Dennis Iliadis,6.6/10,41%,42/100,1
+1311,Grant Heslov,6.2/10,52%,54/100,1
+1312,Charles de Lauzirika,7.8/10,N/A%,N/A/100,1
+1313,Tzu Nyen Ho,6.9/10,N/A%,N/A/100,1
+1314,Shane Acker,7.0/10,57%,6/100,1
+1315,Marc Lawrence,5.8/10,39%,43/100,3
+1316,Nelson McCormick,4.8/10,10%,20/100,2
+1317,Charles Guard,6.4/10,31%,43/100,1
+1318, Thomas Guard,6.4/10,31%,43/100,1
+1319,Damien Dante Wayans,3.5/10,18%,4/100,1
+1320,Olatunde Osunsanmi,5.9/10,19%,34/100,1
+1321,Jody Hill,5.8/10,50%,54/100,1
+1322,Dito Montiel,5.6/10,39%,6/100,1
+1323,Brandon Camp,5.6/10,16%,33/100,1
+1324,Bruce Hendricks,2.0/10,24%,45/100,1
+1325,Ricky Gervais,6.4/10,57%,58/100,1
+1326, Matthew Robinson,6.4/10,57%,58/100,1
+1327,Iain Softley,6.6/10,39%,48/100,3
+1328,Jonas Elmer,5.6/10,29%,29/100,1
+1329,Karyn Kusama,5.9/10,65%,27/100,2
+1330,Karey Kirkpatrick,6.2/10,58%,60/100,2
+1331,Neal Brennan,5.8/10,27%,39/100,1
+1332,Richard Kelly,5.6/10,45%,47/100,1
+1333,Drew Barrymore,6.9/10,84%,68/100,1
+1334,Christine Jeffs,6.6/10,55%,31/100,2
+1335,Mike Judge,6.2/10,62%,6/100,1
+1336,Bill Duke,6.0/10,32%,43/100,1
+1337,Troy Duffy,6.3/10,23%,24/100,1
+1338,James Wong,5.2/10,26%,28/100,4
+1339,Andrzej Bartkowiak,5.2/10,23%,34/100,5
+1340,Donald Petrie,5.8/10,24%,37/100,5
+1341,Terry Gilliam,6.3/10,51%,35/100,2
+1342,Rajkumar Hirani,8.3/10,100%,67/100,3
+1343,Vicky Jenson,6.4/10,44%,56/100,3
+1344,Anne Fontaine,6.7/10,63%,65/100,1
+1345,Zach Cregger,5.0/10,5%,7/100,1
+1346, Trevor Moore,5.0/10,5%,7/100,1
+1347,Jane Campion,6.2/10,58%,27/100,2
+1348,Robert Kenner,7.8/10,95%,8/100,1
+1349,Jeff Stilson,6.9/10,95%,72/100,1
+1350,Stephan Elliott,5.8/10,30%,44/100,2
+1351,Max Mayer,7.2/10,65%,56/100,1
+1352,Carlos Cuarón,6.7/10,73%,67/100,1
+1353,Matt Tyrnauer,7.2/10,77%,68/100,1
+1354,Adam Del Deo,7.5/10,92%,76/100,1
+1355, James D. Stern,7.5/10,92%,76/100,1
+1356,Aristomenis Tsirbas,6.6/10,48%,54/100,1
+1357,Fatih Akin,6.3/10,37%,49/100,1
+1358, Yvan Attal,6.3/10,37%,49/100,1
+1359, Randall Balsmeyer,6.3/10,37%,49/100,1
+1360, Shunji Iwai,6.3/10,37%,49/100,1
+1361, Wen Jiang,6.3/10,37%,49/100,1
+1362, Shekhar Kapur,6.3/10,37%,49/100,1
+1363, Joshua Marston,6.3/10,37%,49/100,1
+1364, Mira Nair,6.3/10,37%,49/100,1
+1365, Natalie Portman,6.3/10,37%,49/100,1
+1366,Yôjirô Takita,8.0/10,79%,68/100,1
+1367,Bob Gosse,5.3/10,20%,26/100,1
+1368,Steven Lawrence,6.4/10,40%,43/100,1
+1369,Rich Christiano,6.2/10,22%,26/100,2
+1370,Nicholas Jasenovec,6.0/10,59%,54/100,1
+1371,Aviva Kempner,7.3/10,93%,69/100,1
+1372,Cédric Klapisch,7.1/10,72%,66/100,2
+1373, John Stevenson,7.6/10,87%,73/100,1
+1374, Loveleen Tandan,8.0/10,91%,86/100,1
+1375,Kenny Ortega,4.6/10,64%,57/100,1
+1376,Michael McCullers,6.0/10,64%,55/100,1
+1377,David Hackl,5.8/10,13%,2/100,1
+1378,Bryan Bertino,6.2/10,45%,47/100,1
+1379,Sam Fell,6.5/10,72%,66/100,3
+1380, Robert Stevenhagen,6.0/10,56%,53/100,1
+1381,Fred Wolf,5.4/10,22%,28/100,2
+1382,Jennifer Flackett,6.0/10,51%,55/100,1
+1383, Mark Levin,6.0/10,51%,55/100,1
+1384,Paul Weiland,5.9/10,14%,37/100,1
+1385,George C. Wolfe,6.0/10,30%,39/100,1
+1386,Jon Avnet,6.0/10,12%,22/100,2
+1387,Dave Filoni,5.9/10,18%,35/100,1
+1388,Kent Alterman,5.8/10,22%,47/100,1
+1389,John Patrick Shanley,7.5/10,79%,68/100,1
+1390,Steven Brill,5.4/10,18%,21/100,5
+1391,Adam Brooks,7.2/10,71%,59/100,1
+1392,Marco Schnabel,3.8/10,13%,24/100,1
+1393,Peter Sollett,6.8/10,86%,74/100,2
+1394,David Moreau,5.4/10,22%,36/100,1
+1395, Xavier Palud,5.4/10,22%,36/100,1
+1396,Gregory Hoblit,6.8/10,54%,54/100,4
+1397,Diane English,4.9/10,13%,27/100,1
+1398,Eric Valette,4.0/10,0%,24/100,1
+1399,Banjong Pisanthanakun,7.0/10,N/A%,N/A/100,1
+1400, Parkpoom Wongpoom,7.0/10,N/A%,N/A/100,1
+1401,Craig Mazin,4.5/10,17%,33/100,1
+1402,Jeffrey Nachmanoff,7.0/10,64%,6/100,1
+1403,Mathieu Kassovitz,5.7/10,10%,32/100,2
+1404,Chris Carter,5.9/10,31%,47/100,1
+1405,Callie Khouri,5.9/10,33%,26/100,2
+1406,Ed Harris,6.9/10,79%,70/100,2
+1407,Frank Miller,6.4/10,46%,38/100,2
+1408,Howard Deutch,6.0/10,20%,20/100,3
+1409,Patricia Rozema,6.6/10,79%,63/100,1
+1410,Carter Smith,5.9/10,48%,44/100,1
+1411,Danny Pang,5.4/10,10%,29/100,2
+1412, Oxide Chun Pang,5.4/10,10%,29/100,2
+1413,Joel Hopkins,6.7/10,71%,57/100,1
+1414,Saul Dibb,6.9/10,61%,62/100,1
+1415,Mike Relon Makiling,5.5/10,N/A%,N/A/100,1
+1416,Mickey Liddell,3.9/10,3%,28/100,1
+1417,Mike Nawrocki,6.2/10,52%,54/100,2
+1418,Fred Durst,5.2/10,41%,52/100,1
+1419,Neil Marshall,6.6/10,68%,6/100,2
+1420,Catherine Owens,8.4/10,93%,83/100,1
+1421, Mark Pellington,8.4/10,93%,83/100,1
+1422,Mark Palansky,6.8/10,53%,48/100,1
+1423,Mark Herman,7.8/10,63%,55/100,1
+1424,Darnell Martin,7.0/10,66%,65/100,1
+1425,Lexi Alexander,6.0/10,27%,3/100,1
+1426,Nathan Frankowski,3.7/10,11%,2/100,1
+1427,Jeff Lowell,5.2/10,15%,3/100,1
+1428,Alfredo Rodriguez de Villa,6.0/10,52%,5/100,1
+1429,Ian Iqbal Rashid,3.3/10,66%,63/100,1
+1430,David Zucker,4.6/10,19%,18/100,5
+1431,Julian Jarrold,6.9/10,59%,59/100,3
+1432,Peter Cattaneo,6.2/10,41%,53/100,1
+1433,Guillaume Canet,7.5/10,94%,82/100,1
+1434,Stefan Ruzowitzky,7.6/10,94%,78/100,1
+1435,Andrew Fleming,6.0/10,49%,51/100,3
+1436,Uwe Boll,2.8/10,3%,7/100,4
+1437,Deb Hagan,4.6/10,5%,5/100,1
+1438,Marcel Langenegger,6.0/10,13%,3/100,1
+1439,Charles Robert Carner,3.2/10,4%,7/100,1
+1440,Randall Miller,6.8/10,48%,56/100,1
+1441,Stephen Walker,7.9/10,88%,75/100,1
+1442, Sally George,7.9/10,88%,75/100,1
+1443,Jon Poll,7.0/10,56%,54/100,1
+1444,Laurent Cantet,7.5/10,95%,92/100,1
+1445,Helen Hunt,6.0/10,50%,56/100,1
+1446,Fernando Meirelles,7.5/10,73%,69/100,3
+1447,Philippe Claudel,7.6/10,88%,79/100,1
+1448,Charlie Kaufman,7.3/10,80%,78/100,2
+1449,Eran Kolirin,7.6/10,98%,8/100,1
+1450,Clark Gregg,6.5/10,54%,47/100,1
+1451,Courtney Hunt,7.2/10,88%,82/100,1
+1452,A.R. Murugadoss,7.3/10,50%,N/A/100,1
+1453,David Mamet,6.7/10,71%,54/100,4
+1454,Ari Folman,8.0/10,96%,9/100,1
+1455,Pierre Salvadori,7.0/10,81%,72/100,1
+1456,Aditya Chopra,7.1/10,86%,N/A/100,2
+1457,Claude Lelouch,7.0/10,88%,7/100,1
+1458,Matteo Garrone,7.0/10,92%,87/100,1
+1459,Ebrahim Hatamikia,6.3/10,N/A%,N/A/100,1
+1460,Gwendal Sartre,N/A/10,N/A%,N/A/100,1
+1461,Tarun Mansukhani,6.5/10,91%,N/A/100,1
+1462,Stanislava Buevich,4.6/10,55%,N/A/100,1
+1463,Scott Scooter Diel,N/A/10,N/A%,N/A/100,1
+1464,Arnaud Desplechin,7.0/10,86%,84/100,1
+1465,Nadine Labaki,7.2/10,92%,7/100,1
+1466,Roger Spottiswoode,6.5/10,36%,49/100,2
+1467,Santosh Sivan,6.6/10,49%,47/100,1
+1468,Ajay Devgn,6.0/10,N/A%,N/A/100,1
+1469,Ram Gopal Varma,6.8/10,33%,N/A/100,1
+1470, Raman Hu,6.0/10,41%,58/100,1
+1471, Jan Pinkava,8.0/10,96%,96/100,1
+1472,David Silverman,7.7/10,92%,43/100,2
+1473,Kevin Lima,6.0/10,62%,55/100,2
+1474,Simon J. Smith,6.3/10,62%,54/100,2
+1475, Steve Hickner,6.0/10,51%,54/100,1
+1476,Gabor Csupo,7.2/10,85%,74/100,1
+1477,Mike Nichols,6.6/10,64%,46/100,3
+1478,Darren Lynn Bousman,6.2/10,27%,29/100,3
+1479, Chris Buck,6.7/10,79%,64/100,1
+1480,Russell Mulcahy,6.3/10,23%,4/100,1
+1481,Mennan Yapo,5.9/10,8%,29/100,1
+1482,Frederik Du Chau,5.0/10,24%,40/100,2
+1483,Michael Lehmann,5.6/10,21%,40/100,2
+1484,Antonia King,6.5/10,N/A%,N/A/100,1
+1485,Xavier Gens,6.3/10,N/A%,35/100,1
+1486,Neil Jordan,6.7/10,60%,62/100,2
+1487,Joel Schumacher,6.6/10,35%,38/100,5
+1488,Mark Helfrich,5.6/10,5%,9/100,1
+1489,Steve Bendelack,6.4/10,52%,56/100,1
+1490,Billy Ray,7.1/10,88%,74/100,2
+1491,Robert Ben Garant,5.6/10,28%,42/100,2
+1492,Zach Helm,6.2/10,38%,48/100,1
+1493,Kirsten Sheridan,7.5/10,37%,38/100,1
+1494,Juan Carlos Fresnadillo,7.0/10,71%,78/100,1
+1495,Bruce A. Evans,7.3/10,54%,45/100,1
+1496,Frank Darabont,7.1/10,57%,42/100,2
+1497, Quentin Tarantino,7.8/10,80%,76/100,2
+1498, Edgar Wright,7.6/10,83%,77/100,1
+1499, Rob Zombie,7.6/10,83%,77/100,1
+1500,Julie Taymor,7.4/10,64%,31/100,2
+1501,Philip G. Atwell,6.3/10,N/A%,36/100,1
+1502,Robert Shaye,6.3/10,54%,59/100,1
+1503,Adrienne Shelly,7.0/10,90%,75/100,1
+1504,Sean Penn,7.4/10,80%,40/100,2
+1505,Dave Meyers,5.6/10,21%,28/100,1
+1506,Shekhar Kapur,6.6/10,38%,48/100,3
+1507,Paul Bolger,4.5/10,4%,28/100,1
+1508, Yvette Kaplan,4.5/10,4%,28/100,1
+1509, Greg Tiernan,4.5/10,4%,28/100,1
+1510, Dino Athanassiou,4.5/10,4%,28/100,1
+1511,Susannah Grant,6.0/10,21%,43/100,1
+1512,Oliver Hirschbiegel,7.0/10,55%,64/100,2
+1513, James McTeigue,5.9/10,19%,45/100,1
+1514,Joby Harold,6.5/10,23%,33/100,1
+1515,Todd Holland,5.5/10,38%,43/100,1
+1516,Fred Savage,3.0/10,1%,3/100,1
+1517,Michael Davis,6.7/10,67%,49/100,1
+1518,Lajos Koltai,6.5/10,27%,45/100,1
+1519,Jon Kasdan,6.5/10,43%,47/100,1
+1520,Hyung-rae Shim,3.6/10,28%,33/100,1
+1521,Michael Katleman,4.7/10,19%,35/100,1
+1522,Olivier Dahan,7.6/10,50%,66/100,1
+1523,David L. Cunningham,4.8/10,N/A%,38/100,1
+1524,Frank Oz,6.5/10,50%,39/100,3
+1525,Les Mayfield,5.3/10,10%,30/100,3
+1526,C.B. Harding,3.5/10,4%,7/100,1
+1527,Leon Ichaso,5.5/10,25%,46/100,1
+1528,Menno Meyjes,6.8/10,33%,48/100,1
+1529,Chris Sivertson,3.6/10,7%,6/100,1
+1530,Scott Wiper,6.0/10,15%,23/100,1
+1531,Sidney Lumet,7.2/10,74%,74/100,2
+1532,Andy Cheng,4.0/10,0%,24/100,1
+1533,Tamara Jenkins,7.2/10,89%,85/100,1
+1534,Julian Schnabel,7.7/10,84%,88/100,2
+1535,Doug Lefler,5.4/10,16%,37/100,1
+1536,Alejandro Chomski,2.8/10,12%,36/100,1
+1537,Lance Rivera,4.0/10,10%,18/100,2
+1538,Curtis Hanson,6.8/10,58%,50/100,5
+1539,Don Michael Paul,3.3/10,4%,16/100,2
+1540,Matt Maiellaro,6.9/10,48%,54/100,1
+1541, Dave Willis,6.9/10,48%,54/100,1
+1542, Frédéric Auburtin,7.3/10,87%,66/100,1
+1543, Emmanuel Benbihy,7.3/10,87%,66/100,1
+1544, Gurinder Chadha,7.3/10,87%,66/100,1
+1545, Sylvain Chomet,7.3/10,87%,66/100,1
+1546, Ethan Coen,7.2/10,80%,54/100,4
+1547, Isabel Coixet,7.3/10,87%,66/100,1
+1548, Wes Craven,7.3/10,87%,66/100,1
+1549, Alfonso Cuarón,7.3/10,87%,66/100,1
+1550, Gérard Depardieu,7.3/10,87%,66/100,1
+1551, Christopher Doyle,7.3/10,87%,66/100,1
+1552, Richard LaGravenese,7.3/10,87%,66/100,1
+1553, Vincenzo Natali,7.3/10,87%,66/100,1
+1554, Alexander Payne,7.3/10,87%,66/100,1
+1555, Bruno Podalydès,7.3/10,87%,66/100,1
+1556, Walter Salles,7.3/10,87%,66/100,1
+1557, Oliver Schmitz,7.3/10,87%,66/100,1
+1558, Nobuhiro Suwa,7.3/10,87%,66/100,1
+1559, Daniela Thomas,7.3/10,87%,66/100,1
+1560, Tom Tykwer,7.3/10,87%,66/100,1
+1561, Gus Van Sant,7.3/10,87%,66/100,1
+1562,Harvey Glazer,4.6/10,N/A%,8/100,1
+1563,Vincent Paronnaud,8.0/10,96%,9/100,1
+1564, Marjane Satrapi,8.0/10,96%,9/100,1
+1565,Julie Delpy,6.8/10,86%,67/100,1
+1566,Franck Khalfoun,5.9/10,35%,37/100,1
+1567,Alain Desrochers,5.5/10,N/A%,N/A/100,1
+1568,Robin Swicord,6.8/10,66%,6/100,1
+1569,Katja von Garnier,5.5/10,11%,33/100,1
+1570,Robert Benton,6.5/10,41%,31/100,2
+1571,Michael O. Sajbel,6.8/10,26%,44/100,2
+1572,Franc. Reyes,5.8/10,18%,21/100,2
+1573,John Dahl,6.6/10,63%,62/100,3
+1574,Mani Ratnam,7.8/10,91%,7/100,1
+1575,Danièle Thompson,6.8/10,75%,64/100,1
+1576,Francis Veber,6.6/10,70%,68/100,1
+1577,Nikkhil Advani,6.6/10,71%,54/100,2
+1578,Ken Loach,7.5/10,88%,82/100,1
+1579,Patrice Leconte,7.2/10,86%,56/100,4
+1580,Nacho Cerdà,5.6/10,38%,42/100,1
+1581,Vidhu Vinod Chopra,6.2/10,86%,69/100,1
+1582,Wayne Beach,5.9/10,12%,34/100,1
+1583,Vipul Amrutlal Shah,7.3/10,N/A%,N/A/100,1
+1584,David Mickey Evans,6.7/10,26%,43/100,1
+1585,David Sington,8.0/10,95%,84/100,1
+1586,Shimit Amin,8.2/10,92%,68/100,1
+1587,François Girard,5.9/10,7%,39/100,1
+1588,Priyadarshan,7.0/10,N/A%,N/A/100,2
+1589,Christopher Cain,5.7/10,13%,25/100,1
+1590,Gabriel Pelletier,5.5/10,N/A%,N/A/100,1
+1591,James Isaac,4.5/10,16%,29/100,2
+1592,Robby Henson,5.0/10,5%,34/100,1
+1593,Milos Forman,6.9/10,30%,52/100,1
+1594, Joe Ranf,7.2/10,74%,73/100,1
+1595, Warren Coleman,6.5/10,75%,77/100,1
+1596, Judy Morris,6.5/10,75%,77/100,1
+1597, Karey Kirkpatrick,6.7/10,75%,67/100,1
+1598,Roger Allers,6.2/10,48%,49/100,1
+1599, Jill Culton,6.2/10,48%,49/100,1
+1600, Anthony Stacch,6.5/10,62%,28/100,2
+1601,Frank Marshall,7.3/10,72%,64/100,1
+1602,Stefen Fangmeier,5.0/10,N/A%,38/100,1
+1603,Jeff Tremaine,6.8/10,56%,54/100,2
+1604,Wolfgang Petersen,6.4/10,44%,40/100,3
+1605,Robert De Niro,6.7/10,53%,6/100,1
+1606,Esben Tønnesen,7.8/10,12%,N/A/100,1
+1607,Matthew O'Callaghan,6.5/10,69%,62/100,1
+1608,Andrew Davis,6.5/10,45%,31/100,3
+1609,Alejandro Agresti,6.8/10,35%,52/100,1
+1610,Aaron Seltzer,2.4/10,3%,7/100,5
+1611, Jason Friedberg,2.8/10,7%,N/A/100,1
+1612,Christophe Gans,6.8/10,51%,30/100,2
+1613,James Gartner,7.2/10,N/A%,58/100,1
+1614,Takashi Shimizu,5.5/10,25%,41/100,2
+1615,Phil Joanou,6.9/10,43%,52/100,1
+1616,Steve 'Spaz' Williams,5.3/10,20%,47/100,1
+1617,Richard Donner,6.1/10,34%,46/100,2
+1618,Clark Johnson,6.0/10,40%,47/100,2
+1619,Liz Friedlander,6.7/10,44%,55/100,1
+1620,Greg Coolidge,5.5/10,20%,36/100,1
+1621,John A. Davis,6.0/10,69%,62/100,2
+1622,Jessica Bendinger,6.4/10,30%,53/100,1
+1623,Stanley J. Orzel,6.8/10,N/A%,N/A/100,1
+1624,Brian De Palma,5.8/10,40%,47/100,3
+1625,Vondie Curtis-Hall,4.1/10,17%,20/100,2
+1626,Chris Robinson,6.0/10,62%,63/100,1
+1627,Michael Mayer,6.5/10,52%,58/100,2
+1628,Robert Altman,6.8/10,79%,52/100,3
+1629,Jim Sonzero,4.7/10,11%,27/100,1
+1630,Doug Atchison,7.4/10,84%,72/100,1
+1631,John Bonito,4.7/10,20%,45/100,1
+1632,Kurt Wimmer,6.0/10,24%,20/100,2
+1633,Richard Eyre,7.2/10,83%,74/100,2
+1634,Glen Morgan,5.4/10,64%,14/100,2
+1635,Trent Cooper,3.2/10,5%,2/100,1
+1636,Gregory Dark,5.0/10,8%,7/100,1
+1637,Veith von Fürstenberg,6.6/10,N/A%,N/A/100,1
+1638,Colin Brady,5.8/10,41%,5/100,1
+1639, Christopher Reeve,5.8/10,41%,5/100,1
+1640,Tony Bill,6.5/10,34%,47/100,1
+1641,Bob Dolman,5.5/10,53%,52/100,2
+1642,Erik Canuel,6.7/10,78%,N/A/100,2
+1643,Bryan Barber,6.2/10,47%,55/100,1
+1644,Joe Roth,5.3/10,20%,36/100,3
+1645,Chris R. Notarile,7.0/10,N/A%,N/A/100,1
+1646,Peter Hewitt,4.3/10,3%,26/100,1
+1647,Jim Hanon,7.0/10,40%,45/100,1
+1648,Martha Coolidge,4.9/10,16%,27/100,2
+1649,Liam Lynch,6.7/10,59%,59/100,2
+1650,Wil Shriner,5.6/10,26%,46/100,1
+1651,Patrick Stettner,6.2/10,60%,36/100,2
+1652,Dave Borthwick,2.8/10,8%,23/100,1
+1653, Jean Duval,2.8/10,8%,23/100,1
+1654, Frank Passingham,2.8/10,8%,23/100,1
+1655,Steven Zaillian,6.2/10,N/A%,37/100,1
+1656,Nnegest Likké,3.0/10,23%,36/100,1
+1657,John Stockwell,5.8/10,34%,23/100,4
+1658,Wayne Kramer,7.2/10,59%,36/100,2
+1659,Nicholaus Goossen,7.0/10,16%,33/100,1
+1660,Michael Caton-Jones,5.2/10,27%,16/100,2
+1661,Christopher Guest,7.0/10,77%,51/100,3
+1662,Todd Field,7.5/10,86%,80/100,2
+1663,Bob Odenkirk,5.2/10,8%,18/100,2
+1664,Scott Marshall,5.4/10,37%,57/100,1
+1665,Danny Cannon,6.7/10,44%,53/100,1
+1666,Mike Clattenburg,7.3/10,57%,38/100,1
+1667,Terry Zwigoff,6.9/10,69%,50/100,3
+1668,Deepa Mehta,6.9/10,66%,56/100,2
+1669,Susan Seidelman,6.5/10,60%,6/100,1
+1670,Patrick Creadon,7.4/10,95%,73/100,1
+1671,Chris Noonan,7.0/10,66%,57/100,1
+1672,Ryan Fleck,7.1/10,83%,78/100,4
+1673,Sanjay Gadhvi,6.4/10,90%,N/A/100,1
+1674,Andy Garcia,6.7/10,25%,47/100,1
+1675,Kunal Kohli,7.2/10,100%,N/A/100,1
+1676,Paul Dinello,6.0/10,52%,57/100,1
+1677,Ali Selim,7.3/10,85%,75/100,1
+1678,Sergio Carvajal,N/A/10,N/A%,N/A/100,1
+1679, Ruwan Perera,N/A/10,N/A%,N/A/100,1
+1680,Chris Paine,7.7/10,89%,7/100,1
+1681,Niall Johnson,6.8/10,56%,53/100,1
+1682,Bart Freundlich,5.5/10,20%,38/100,2
+1683,Eugene Jarecki,8.0/10,79%,68/100,1
+1684,Mary Harron,7.1/10,62%,64/100,2
+1685,Yves-André Hubert,7.9/10,N/A%,N/A/100,1
+1686,Sterling Van Wagenen,6.6/10,62%,N/A/100,2
+1687,Victor Salva,6.7/10,35%,26/100,2
+1688,Lian Lunson,6.9/10,69%,68/100,1
+1689,George Lucas,7.1/10,72%,61/100,2
+1690,Mark Dindal,6.5/10,61%,28/100,2
+1691, Carlos Saldanha,6.9/10,70%,35/100,2
+1692,Luc Jacquet,7.6/10,94%,79/100,1
+1693,Hideo Nakata,5.4/10,19%,44/100,1
+1694,Sydney Pollack,6.4/10,56%,62/100,1
+1695,Kevin Rodney Sullivan,5.8/10,56%,54/100,2
+1696,Andrew Douglas,6.0/10,24%,33/100,1
+1697,Nora Ephron,4.9/10,24%,18/100,2
+1698,Geoffrey Sax,5.5/10,8%,3/100,1
+1699,Jacob Sager Weinstein,7.0/10,N/A%,N/A/100,1
+1700,Melville Shavelson,7.2/10,50%,N/A/100,1
+1701,John Polson,5.5/10,14%,32/100,2
+1702,John Pasquin,5.2/10,28%,38/100,2
+1703,Stephen Kay,4.6/10,12%,28/100,2
+1704,Gary David Goldberg,5.9/10,35%,46/100,1
+1705,Robert Z. Leonard,7.4/10,100%,N/A/100,1
+1706,Barry W. Blaustein,5.8/10,40%,46/100,1
+1707,Florent-Emilio Siri,6.6/10,35%,44/100,1
+1708,John Gatins,6.9/10,64%,59/100,1
+1709,Clare Kilner,5.8/10,20%,38/100,2
+1710,Rupert Wainwright,3.6/10,4%,27/100,1
+1711,Walter Salles,6.9/10,73%,64/100,3
+1712,Rob Bowman,5.5/10,25%,36/100,2
+1713,Tim Fywell,6.5/10,66%,59/100,2
+1714,Mike Bigelow,4.6/10,9%,23/100,1
+1715,Charlie Clark,N/A/10,N/A%,N/A/100,1
+1716,Jean-François Richet,6.3/10,60%,54/100,1
+1717,Stephen Herek,5.8/10,18%,31/100,3
+1718,Gary Chapman,5.6/10,32%,45/100,1
+1719,Mel Brooks,7.7/10,91%,97/100,1
+1720,Frank Nissen,6.4/10,79%,64/100,1
+1721,Stephen Chow,7.8/10,90%,78/100,1
+1722,Lawrence Guterman,2.2/10,6%,2/100,1
+1723,Mark Rosman,5.7/10,8%,26/100,2
+1724,Rob McKittrick,6.8/10,31%,3/100,1
+1725,Rob Hardy,4.2/10,32%,46/100,2
+1726,Bill Paxton,7.4/10,68%,60/100,2
+1727,Bruce Hunt,5.0/10,11%,3/100,1
+1728,Richard Shepard,6.8/10,75%,65/100,1
+1729,Ron Underwood,3.2/10,9%,2/100,2
+1730,Duncan Tucker,7.4/10,77%,66/100,1
+1731,Marilyn Agrelo,7.5/10,84%,7/100,1
+1732,Charles Dance,7.0/10,63%,6/100,1
+1733,Albert Sharpe,6.5/10,N/A%,N/A/100,1
+1734,Paul Provenza,6.4/10,N/A%,72/100,1
+1735,John Maybury,7.0/10,44%,44/100,1
+1736,Marcos Siega,4.0/10,6%,9/100,1
+1737,Laurence Dunmore,6.4/10,33%,44/100,1
+1738,Prachya Pinkaew,7.2/10,86%,69/100,1
+1739,Alex Gibney,7.7/10,97%,N/A/100,1
+1740,Jeffrey W. Byrd,4.2/10,2%,N/A/100,1
+1741,Miranda July,7.3/10,82%,76/100,1
+1742,David LaChapelle,7.0/10,84%,74/100,1
+1743,Steve Boyum,4.0/10,5%,26/100,1
+1744,Judy Irving,7.9/10,95%,8/100,1
+1745,Staffan Hildebrand,5.3/10,N/A%,N/A/100,1
+1746,Eytan Fox,7.4/10,72%,65/100,1
+1747,Phil Morrison,7.0/10,86%,8/100,1
+1748,Peter Hyams,4.5/10,8%,26/100,2
+1749,Agnès Jaoui,6.9/10,87%,79/100,1
+1750,Dan Ireland,7.6/10,70%,67/100,1
+1751,Liev Schreiber,7.5/10,66%,58/100,1
+1752,James Ivory,6.3/10,51%,34/100,2
+1753,Christophe Barratier,7.9/10,69%,56/100,1
+1754, Dana Adam Shapiro,7.8/10,98%,87/100,1
+1755,Amol Palekar,6.7/10,67%,N/A/100,1
+1756,Gidi Dar,7.4/10,94%,7/100,1
+1757,Shona Auerbach,7.8/10,81%,63/100,1
+1758,Campbell Scott,7.2/10,70%,68/100,1
+1759,Don Roos,6.1/10,53%,54/100,2
+1760,Agustin,6.7/10,N/A%,N/A/100,1
+1761,Stephen Deutsch,4.9/10,N/A%,N/A/100,1
+1762,Alice Wu,7.5/10,86%,65/100,1
+1763,Chris Terrio,7.0/10,64%,59/100,1
+1764,Meiert Avis,4.2/10,8%,29/100,1
+1765, Kelly Asbury,7.2/10,88%,75/100,1
+1766,Bibo Bergeron,6.5/10,42%,26/100,2
+1767, Vicky Jenson,7.0/10,62%,66/100,2
+1768, Rob Letterman,6.0/10,35%,48/100,1
+1769,Stephen Hillenburg,7.0/10,69%,66/100,1
+1770, Mark Osborne,7.0/10,69%,66/100,1
+1771,Jay Russell,6.7/10,58%,40/100,3
+1772,Keenen Ivory Wayans,5.7/10,28%,27/100,3
+1773,Joseph Ruben,5.8/10,31%,43/100,1
+1774,Eric Bress,7.7/10,33%,3/100,1
+1775, J. Mackye Gruber,7.7/10,33%,3/100,1
+1776,Alexander Witt,6.2/10,21%,35/100,1
+1777, John Sanford,5.4/10,54%,5/100,1
+1778,Joel Zwick,5.4/10,50%,50/100,2
+1779,Kevin Bray,6.0/10,28%,39/100,2
+1780,Chris Stokes,3.6/10,N/A%,37/100,1
+1781,Beeban Kidron,6.0/10,26%,44/100,1
+1782,Pitof,3.3/10,9%,27/100,1
+1783,Kerry Conran,6.0/10,71%,64/100,1
+1784,Gérard Pirès,7.0/10,N/A%,N/A/100,1
+1785,Trey Parker,7.2/10,77%,64/100,1
+1786,Dwight H. Little,4.6/10,25%,4/100,1
+1787,Christopher Erskin,4.4/10,6%,29/100,1
+1788,Sara Sugarman,4.6/10,13%,33/100,1
+1789,Philip Kaufman,6.2/10,38%,16/100,2
+1790,Kevin Allen,4.5/10,13%,32/100,1
+1791,Terry George,8.0/10,91%,79/100,1
+1792,Tommy O'Haver,6.0/10,47%,52/100,2
+1793,Jaume Balagueró,5.4/10,4%,5/100,1
+1794,Charles Stone III,6.1/10,63%,56/100,3
+1795,Joseph Kahn,4.0/10,22%,4/100,1
+1796,Nick Hurran,5.3/10,21%,36/100,1
+1797,Jean-Jacques Annaud,7.3/10,66%,58/100,2
+1798,Peter Howitt,6.0/10,25%,15/100,3
+1799,Jeff Schaffer,6.6/10,N/A%,45/100,1
+1800, Alec Berg,6.6/10,N/A%,45/100,1
+1801, David Mandel,6.6/10,N/A%,45/100,1
+1802,Cheryl Dunye,4.5/10,4%,23/100,1
+1803,Don Mancini,4.9/10,32%,46/100,1
+1804,Paul Abascal,5.8/10,18%,38/100,1
+1805,Nick Hamm,4.8/10,4%,24/100,1
+1806,Jessy Terrero,4.4/10,18%,33/100,1
+1807,Guy Ferland,6.0/10,23%,39/100,1
+1808,Dennie Gordon,5.4/10,11%,18/100,2
+1809,Irwin Winkler,7.0/10,48%,49/100,2
+1810,Charles Shyer,6.2/10,49%,49/100,1
+1811,Daniel Taplitz,5.5/10,31%,46/100,1
+1812,Andy Cadiff,6.0/10,N/A%,46/100,1
+1813,Forest Whitaker,5.0/10,8%,3/100,1
+1814,Brian Dannelly,6.8/10,60%,62/100,1
+1815,E. Elias Merhige,6.4/10,50%,22/100,2
+1816,István Szabó,7.0/10,76%,65/100,1
+1817,Jonathan Frakes,4.7/10,24%,20/100,2
+1818,Michael Schultz,6.8/10,50%,55/100,1
+1819,Joshua Marston,6.9/10,66%,68/100,2
+1820,George Seaton,7.0/10,83%,N/A/100,1
+1821,George Armitage,4.9/10,16%,42/100,1
+1822,Kevin Spacey,6.7/10,42%,46/100,1
+1823,Charles S. Dutton,5.3/10,12%,36/100,1
+1824,Pieter Jan Brugge,5.9/10,43%,6/100,1
+1825,Ernest R. Dickerson,4.8/10,24%,40/100,2
+1826,Jonathan Glazer,6.7/10,62%,42/100,2
+1827,Sergio Arau,4.7/10,27%,3/100,1
+1828,Wolfgang Becker,7.7/10,90%,68/100,1
+1829,André Ducharme,5.8/10,N/A%,N/A/100,1
+1830, Guy A. Lepage,5.8/10,N/A%,N/A/100,1
+1831, Sylvain Roy,5.8/10,N/A%,N/A/100,1
+1832,Joe Camp,4.6/10,33%,49/100,1
+1833,Zana Briski,7.4/10,95%,78/100,1
+1834, Ross Kauffman,7.4/10,95%,78/100,1
+1835,Russell Holt,6.9/10,17%,N/A/100,1
+1836,Robert C. Ramirez,5.5/10,53%,49/100,1
+1837,Rowdy Herrington,6.7/10,26%,45/100,1
+1838,Leonardo Defilippis,6.4/10,11%,27/100,1
+1839,Jehane Noujaim,7.4/10,94%,77/100,2
+1840,Bernardo Bertolucci,7.2/10,61%,62/100,1
+1841,Ki-duk Kim,8.0/10,94%,85/100,1
+1842,Jean-Paul Rappeneau,6.9/10,76%,68/100,1
+1843,Stacy Peralta,7.8/10,92%,42/100,2
+1844,Claude Desrosiers,7.0/10,N/A%,N/A/100,1
+1845,Alejandro Amenábar,7.8/10,84%,74/100,2
+1846,Mark Achbar,8.0/10,90%,73/100,1
+1847, Jennifer Abb,8.0/10,90%,73/100,1
+1848,Byambasuren Davaa,7.5/10,94%,8/100,1
+1849, Luigi Falorni,7.5/10,94%,8/100,1
+1850,Léa Pool,6.3/10,44%,N/A/100,1
+1851,Gabriele Salvatores,7.5/10,90%,73/100,1
+1852,Olivier Julien,6.9/10,N/A%,N/A/100,1
+1853, Brian McKenna,6.9/10,N/A%,N/A/100,1
+1854,Nicole Kassell,7.2/10,88%,72/100,1
+1855,Pierre Houle,6.7/10,N/A%,N/A/100,1
+1856,John Waters,5.6/10,53%,56/100,2
+1857,Ryan Little,6.8/10,66%,56/100,1
+1858,Siddiq Barmak,7.4/10,96%,83/100,1
+1859,Mark Griffiths,5.6/10,0%,N/A/100,1
+1860,Joe Berlinger,5.8/10,52%,40/100,2
+1861, Bruce Sinofsky,7.5/10,89%,74/100,1
+1862,Bob Smeaton,7.6/10,96%,85/100,1
+1863, Frank Cvitanovich,7.6/10,96%,85/100,1
+1864,Denise Filiatrault,6.0/10,N/A%,N/A/100,2
+1865,Scott S. Anderson,7.5/10,73%,N/A/100,1
+1866,Yves Pelletier,6.8/10,N/A%,N/A/100,1
+1867,Elliot Berlin,7.4/10,72%,64/100,1
+1868, Joe Fab,7.4/10,72%,64/100,1
+1869,Hugo Rodríguez,6.7/10,45%,49/100,1
+1870,Je-kyu Kang,8.0/10,79%,64/100,1
+1871,Mamoru Oshii,7.6/10,64%,66/100,1
+1872,John Sayles,6.5/10,64%,58/100,2
+1873, Lee Unkrich,8.0/10,98%,44/100,2
+1874,Josh Oreck,5.8/10,N/A%,N/A/100,1
+1875,Jesse Dylan,6.3/10,40%,36/100,2
+1876,Bo Welch,3.8/10,10%,9/100,1
+1877,Anthony Minghella,7.2/10,71%,73/100,1
+1878,Aaron Blaise,6.8/10,38%,48/100,1
+1879, Robert Walker,6.8/10,38%,48/100,1
+1880,David McNally,5.0/10,23%,16/100,2
+1881,Stephen Norrington,5.8/10,17%,3/100,1
+1882,Jan de Bont,5.5/10,25%,43/100,1
+1883,Kevin Costner,7.5/10,80%,67/100,1
+1884,John Woo,6.1/10,30%,36/100,3
+1885,Michael Tollin,6.0/10,22%,20/100,2
+1886,Clyde Geronimi,7.3/10,76%,N/A/100,1
+1887, Wilfred Jackson,7.4/10,88%,N/A/100,2
+1888, Hamilton Luske,7.4/10,88%,N/A/100,2
+1889, Jack Kinney,7.4/10,88%,N/A/100,2
+1890,Steve Trenbirth,5.4/10,19%,38/100,1
+1891,Audrey Wells,6.8/10,62%,52/100,1
+1892,Jim Fall,5.4/10,41%,56/100,1
+1893,Tim McCanlies,7.6/10,59%,52/100,1
+1894,John Eng,5.6/10,40%,38/100,1
+1895, Norton Virgien,5.6/10,40%,38/100,1
+1896,John Hoffman,5.0/10,44%,49/100,1
+1897,Greg Carson,6.7/10,N/A%,N/A/100,1
+1898,Joel Coen,7.1/10,83%,54/100,11
+1899,Lawrence Kasdan,5.5/10,30%,35/100,1
+1900,Jon Amiel,5.5/10,40%,48/100,1
+1901,Jonathan Lynn,6.1/10,44%,50/100,2
+1902,John McTiernan,4.8/10,12%,19/100,2
+1903,Patrick Gilmore,6.7/10,45%,48/100,1
+1904, Tim Johnson,6.7/10,45%,48/100,1
+1905,Troy Miller,3.4/10,10%,9/100,1
+1906,Paul Hunter,5.5/10,23%,4/100,1
+1907,Francis Glebas,6.0/10,71%,62/100,1
+1908,Sam Weisman,5.5/10,16%,36/100,2
+1909,Gordon Chan,5.2/10,18%,38/100,1
+1910,Reggie Rock Bythewood,4.6/10,23%,36/100,1
+1911,Troy Byer,5.0/10,13%,37/100,1
+1912,Mike Figgis,4.9/10,12%,37/100,1
+1913,Joe Dante,5.7/10,56%,64/100,1
+1914,Alan Parker,7.6/10,19%,3/100,1
+1915,Gary Hardwick,6.2/10,54%,26/100,2
+1916,Bruno Barreto,5.8/10,44%,42/100,2
+1917,Chris Koch,5.3/10,26%,30/100,2
+1918,Rob Schmidt,6.0/10,41%,32/100,1
+1919,Vadim Perelman,7.6/10,74%,7/100,1
+1920,Ron Maxwell,6.3/10,8%,3/100,1
+1921, Michel Debats,7.8/10,92%,78/100,2
+1922,Danny DeVito,6.2/10,38%,22/100,2
+1923,Manouchka Kelly Labouba,6.6/10,N/A%,N/A/100,1
+1924,Mort Nathan,4.9/10,7%,8/100,1
+1925,Lauren Lazin,8.0/10,78%,66/100,1
+1926, Kátia Lun,8.6/10,91%,79/100,1
+1927,Caroline Link,7.7/10,85%,72/100,1
+1928,Linda Mendoza,4.8/10,14%,33/100,1
+1929,Martin Brest,2.4/10,N/A%,8/100,1
+1930,Eric Till,6.6/10,45%,47/100,1
+1931,Robert Iscove,3.7/10,10%,16/100,2
+1932,Peter Mullan,7.8/10,91%,83/100,1
+1933,Les Norris,5.9/10,N/A%,N/A/100,1
+1934,David Batty,7.8/10,N/A%,N/A/100,1
+1935,Rick de Oliveira,2.7/10,35%,34/100,1
+1936,Alan Rudolph,6.5/10,85%,76/100,1
+1937,Dana Brown,7.5/10,82%,72/100,1
+1938,Denys Arcand,7.7/10,81%,7/100,1
+1939,Émile Gaudreault,6.5/10,33%,4/100,2
+1940,Andrew Jarecki,7.8/10,97%,9/100,1
+1941,Daisy von Scherler Mayer,5.4/10,57%,47/100,1
+1942,François Dupeyron,7.5/10,85%,69/100,1
+1943,Nathaniel Kahn,7.4/10,93%,8/100,1
+1944,John Malkovich,7.0/10,64%,64/100,1
+1945,George Gallo,6.0/10,28%,15/100,2
+1946,Éric Tessier,6.5/10,N/A%,N/A/100,1
+1947,Steven Ramirez,6.4/10,13%,N/A/100,1
+1948,Gary Rogers,3.2/10,17%,N/A/100,1
+1949,Richard Benjamin,2.8/10,9%,2/100,1
+1950,Don Coscarelli,7.0/10,79%,57/100,1
+1951,Lukas Moodysson,7.5/10,90%,84/100,1
+1952,Kurt Hale,6.2/10,57%,N/A/100,2
+1953,Emanuele Crialese,7.0/10,76%,65/100,1
+1954,James Cox,6.6/10,33%,43/100,1
+1955,Ravi Chopra,7.5/10,N/A%,N/A/100,1
+1956,Robert Duvall,5.9/10,47%,5/100,1
+1957,Richard Kwietniowski,7.0/10,79%,7/100,1
+1958,Shinichirô Watanabe,7.9/10,65%,6/100,1
+1959, Tensai Okamura,7.9/10,65%,6/100,1
+1960, Hiroyuki Okiura,7.9/10,65%,6/100,1
+1961, Yoshiyuki Tak,7.9/10,65%,6/100,1
+1962,Phil Alden Robinson,6.4/10,59%,45/100,1
+1963,Chuck Russell,5.2/10,22%,26/100,2
+1964, Lorna Cook,7.0/10,69%,52/100,1
+1965,Adrian Lyne,6.7/10,50%,63/100,1
+1966,Kevin Donovan,5.3/10,22%,3/100,1
+1967,Stuart Baird,6.4/10,38%,5/100,1
+1968, Paul Weitz,6.2/10,56%,54/100,2
+1969,Perry Andelin Blake,3.3/10,1%,2/100,1
+1970,Tyanna Lazauskas,N/A/10,N/A%,N/A/100,1
+1971,Tamra Davis,3.4/10,14%,27/100,1
+1972,Marcus Raboy,5.8/10,26%,35/100,1
+1973,Barbet Schroeder,6.0/10,N/A%,5/100,1
+1974,Rick Rosenthal,4.0/10,12%,9/100,1
+1975,Michael Rymer,5.3/10,17%,3/100,1
+1976,Steve Beck,5.5/10,14%,28/100,1
+1977,Ed Decter,5.9/10,7%,24/100,1
+1978,John Stainton,5.4/10,53%,5/100,1
+1979, Phil Vischer,6.6/10,66%,58/100,1
+1980, Corey Yuen,6.8/10,54%,5/100,1
+1981,Seth Kearsley,5.3/10,12%,23/100,1
+1982,David Raynr,5.5/10,28%,3/100,2
+1983,Ellory Elkayem,5.4/10,48%,53/100,1
+1984,Peter Hastings,4.0/10,30%,37/100,1
+1985,Peter Kosminsky,7.2/10,69%,6/100,1
+1986,Wych Kaosayananda,3.6/10,0%,9/100,1
+1987,Bruce McCulloch,5.0/10,9%,25/100,1
+1988,Michelle Blasky,8.3/10,N/A%,N/A/100,1
+1989,Tuck Tucker,5.9/10,29%,47/100,1
+1990,Jesse Vaughan,4.5/10,10%,24/100,1
+1991,Craig McCracken,6.5/10,63%,65/100,1
+1992,Wallace Wolodarsky,5.4/10,13%,25/100,1
+1993, Kirk Wise,7.7/10,73%,74/100,2
+1994,Juan Zapata,5.7/10,N/A%,N/A/100,1
+1995,Luis Mandoki,5.9/10,18%,40/100,2
+1996,Charles Herman-Wurmfeld,6.6/10,84%,72/100,1
+1997,Charles Binamé,6.7/10,N/A%,N/A/100,1
+1998,Roger Avary,6.7/10,43%,5/100,1
+1999,Scott Kalvert,5.6/10,3%,6/100,1
+2000,Patricia Cardoso,7.0/10,84%,7/100,1
+2001,Carlos Carrera,6.8/10,61%,6/100,1
+2002,Dewey Nicks,5.3/10,10%,2/100,1
+2003,Ronny Yu,6.3/10,26%,23/100,1
+2004,Jez Butterworth,6.0/10,58%,5/100,1
+2005,Paul Gross,5.9/10,61%,N/A/100,1
+2006,Sandra Nettelbeck,7.3/10,92%,72/100,1
+2007,Steven Shainberg,7.0/10,77%,63/100,1
+2008,Norman Ferguson,7.5/10,100%,N/A/100,1
+2009, T. Hee,7.5/10,100%,N/A/100,1
+2010, Bill Roberts,7.5/10,100%,N/A/100,1
+2011, Ben Sharpsteen,7.5/10,100%,N/A/100,1
+2012,Peter Bogdanovich,6.4/10,74%,63/100,1
+2013,Christian Charles,7.0/10,77%,62/100,1
+2014,Aleksandr Sokurov,7.4/10,89%,86/100,1
+2015,Thomas Riedelsheimer,8.0/10,99%,82/100,1
+2016,Abdul Malik Abbott,4.4/10,0%,9/100,1
+2017,Paul Schrader,6.6/10,71%,66/100,1
+2018,Élie Chouraqui,7.0/10,49%,49/100,1
+2019,Peter Care,7.0/10,N/A%,69/100,1
+2020, Jim Malone,5.6/10,N/A%,N/A/100,1
+2021,Paul Justman,7.8/10,91%,76/100,1
+2022,Dover Koshashvili,7.2/10,88%,82/100,1
+2023,Julio Medem,7.2/10,71%,65/100,1
+2024,Jon Purdy,6.8/10,22%,38/100,1
+2025, Brett Morgen,7.4/10,N/A%,75/100,1
+2026,Dylan Kidd,7.0/10,88%,75/100,1
+2027,Fabián Bielinsky,7.9/10,92%,8/100,1
+2028,Yvan Attal,6.4/10,52%,53/100,2
+2029,Malik Bader,5.7/10,N/A%,N/A/100,1
+2030,Sanjay Gupta,6.6/10,83%,4/100,1
+2031,Lorene Machado,7.0/10,N/A%,66/100,1
+2032,Nanni Moretti,7.4/10,84%,73/100,1
+2033,Ken Russell,7.2/10,63%,N/A/100,1
+2034, David Silverman,8.0/10,96%,78/100,1
+2035,J.B. Rogers,5.7/10,30%,22/100,2
+2036, Mel City,6.7/10,53%,58/100,1
+2037,Gary Trousdale,6.8/10,49%,52/100,1
+2038,Jerry Zucker,6.4/10,43%,52/100,1
+2039,Ted Demme,7.6/10,55%,52/100,1
+2040,Harold Becker,5.5/10,24%,29/100,1
+2041,David Mirkin,6.2/10,53%,47/100,1
+2042,Joel Gallen,5.7/10,30%,32/100,1
+2043,Chris Nahon,6.6/10,51%,58/100,1
+2044,Chuck Sheetz,6.6/10,61%,43/100,1
+2045,Gil Junger,4.8/10,14%,32/100,1
+2046,Aurore Damant,N/A/10,N/A%,N/A/100,1
+2047,Hironobu Sakaguchi,6.4/10,45%,49/100,1
+2048, Motonori Sakakibara,6.4/10,45%,49/100,1
+2049,Penny Marshall,6.5/10,49%,43/100,1
+2050,Jason Trost,8.0/10,N/A%,N/A/100,1
+2051,Simon Wincer,4.8/10,11%,37/100,1
+2052,Pat O'Connor,6.7/10,15%,27/100,1
+2053,John Herzfeld,6.0/10,33%,34/100,1
+2054,Rob Pritts,4.7/10,6%,2/100,1
+2055,Doug McHenry,5.7/10,28%,48/100,1
+2056,Mark Brown,6.0/10,43%,35/100,1
+2057,Jamie Blanks,4.7/10,8%,8/100,1
+2058,Daniel Sackheim,5.8/10,21%,34/100,1
+2059, Michael Haigney,5.7/10,N/A%,N/A/100,1
+2060,Michael Cristofer,6.0/10,12%,33/100,1
+2061,Tim Blake Nelson,6.2/10,64%,53/100,1
+2062,Demian Lichtenstein,5.9/10,14%,2/100,1
+2063,Woo-Ping Yuen,7.6/10,90%,79/100,1
+2064,Harry Elfont,5.4/10,52%,47/100,1
+2065, Deborah Kaplan,5.4/10,52%,47/100,1
+2066,Tom Green,4.5/10,11%,3/100,1
+2067,Brendan Malloy,6.3/10,8%,22/100,1
+2068, Emmett Malloy,6.3/10,8%,22/100,1
+2069,John Boorman,6.0/10,77%,66/100,1
+2070,Gregory Poirier,5.3/10,14%,5/100,1
+2071,DJ Pooh,4.3/10,4%,8/100,2
+2072,J.S. Cardone,5.3/10,7%,35/100,1
+2073,David Lynch,8.0/10,83%,83/100,1
+2074,Silvio Soldini,7.4/10,71%,68/100,1
+2075,Blair Hayes,5.6/10,30%,4/100,1
+2076,Jean-Marie Poiré,5.8/10,33%,38/100,1
+2077,Ray Lawrence,7.3/10,90%,84/100,1
+2078,Maria Ripoll,6.6/10,74%,58/100,1
+2079,Eric Bross,4.0/10,19%,34/100,1
+2080,Alan Cumming,6.3/10,61%,56/100,1
+2081, Jennifer Jason Leigh,6.3/10,61%,56/100,1
+2082,Dominik Moll,7.2/10,96%,75/100,1
+2083,Louis Saia,5.6/10,N/A%,N/A/100,1
+2084,Louis C.K.,5.2/10,29%,3/100,1
+2085,Stephen Carpenter,3.9/10,4%,2/100,1
+2086,Maggie Greenwald,7.2/10,74%,63/100,1
+2087,Rob Sitch,7.2/10,96%,74/100,1
+2088,Eric Valli,7.5/10,89%,73/100,1
+2089,Edward Burns,6.5/10,56%,49/100,1
+2090,Vincent Jay Miller,6.9/10,N/A%,N/A/100,1
+2091,Jeff Daniels,6.5/10,50%,N/A/100,1
+2092,Zeki Demirkubuz,8.4/10,N/A%,N/A/100,1
+2093,David Atkins,5.8/10,38%,45/100,1
+2094,Lee Stanley,6.0/10,11%,N/A/100,1
+2095,Gene Cajayon,6.6/10,74%,6/100,1
+2096,Joel Hershman,6.9/10,46%,46/100,1
+2097,Mohsen Makhmalbaf,6.8/10,89%,76/100,1
+2098,Jan Hrebejk,7.8/10,90%,69/100,1
+2099,Chris Hegedus,7.0/10,92%,75/100,1
+2100, Jehane Noujaim,7.0/10,92%,75/100,1
+2101,Del Shores,6.8/10,37%,47/100,1
+2102,Marleen Gorris,6.9/10,58%,64/100,1
+2103,Melissa Martin,6.7/10,54%,54/100,1
+2104,Julie Davis,6.6/10,43%,46/100,1
+2105,Danis Tanovic,8.0/10,93%,84/100,1
+2106,Sawant Siddhant,N/A/10,N/A%,N/A/100,1
+2107,Eric Leighton,6.5/10,65%,56/100,1
+2108, Ralph Zondag,6.5/10,65%,56/100,1
+2109, Nick Park,7.0/10,97%,88/100,1
+2110,H.B. Halicki,6.5/10,43%,N/A/100,1
+2111,Stig Bergqvist,6.0/10,75%,62/100,1
+2112, Paul Demeyer,6.0/10,75%,62/100,1
+2113, Don Paul,6.9/10,48%,5/100,1
+2114, Jeffrey Katzenberg,6.9/10,48%,5/100,1
+2115,Danny Leiner,5.5/10,18%,3/100,1
+2116,Jun Falkenstein,6.3/10,62%,53/100,1
+2117,Michael Haigney,5.8/10,N/A%,28/100,2
+2118, Kunihiko Yuyama,6.0/10,N/A%,28/100,1
+2119,Joan Chen,5.5/10,19%,24/100,1
+2120,Edward Norton,6.4/10,69%,6/100,1
+2121,Diane Keaton,4.8/10,12%,33/100,1
+2122,Matt Williams,6.8/10,35%,3/100,1
+2123,Mimi Leder,7.2/10,40%,4/100,1
+2124,Bonnie Hunt,6.9/10,61%,54/100,1
+2125,Joe Charbanic,5.3/10,10%,22/100,1
+2126,Des McAnuff,4.2/10,43%,36/100,1
+2127,John Frankenheimer,5.7/10,25%,37/100,1
+2128,Don Bluth,6.6/10,51%,48/100,1
+2129, Gary Goldman,6.6/10,51%,48/100,1
+2130, Art Vitello,6.6/10,51%,48/100,1
+2131,Roger Christian,2.4/10,3%,9/100,1
+2132,John Ottman,4.2/10,9%,6/100,1
+2133,Kris Isacsson,4.9/10,3%,3/100,1
+2134,Antony Hoffman,5.7/10,14%,34/100,1
+2135,Janusz Kaminski,4.8/10,7%,6/100,1
+2136,Britt Allcroft,3.8/10,19%,9/100,1
+2137,Amy Heckerling,5.3/10,24%,35/100,1
+2138,Billy Bob Thornton,5.8/10,32%,55/100,1
+2139,Nick Gomez,5.6/10,29%,25/100,1
+2140,Kimble Rendall,5.2/10,47%,N/A/100,1
+2141,John Schlesinger,4.7/10,19%,25/100,1
+2142,Uli Edel,5.8/10,55%,45/100,1
+2143,John Weiley,6.8/10,57%,N/A/100,1
+2144,Michael Dinner,5.6/10,20%,37/100,1
+2145,Douglas Aarniokoski,4.6/10,11%,2/100,1
+2146,Chia-Liang Liu,7.6/10,83%,74/100,1
+2147,Mark Piznarski,5.0/10,17%,25/100,1
+2148,Takao Okawara,6.0/10,N/A%,4/100,1
+2149,Mamoru Hosoda,6.0/10,25%,2/100,1
+2150, Shigeyasu Yamauchi,6.0/10,25%,2/100,1
+2151,Scott Alexander,5.7/10,13%,7/100,1
+2152, Larry Karaszewski,5.7/10,13%,7/100,1
+2153,Hugh Hudson,5.6/10,10%,33/100,1
+2154,Mike Hodges,7.2/10,98%,75/100,1
+2155,Marek Kanievska,6.3/10,47%,49/100,1
+2156,Mary Lambert,4.6/10,2%,4/100,1
+2157,Yuri Zeltser,5.2/10,25%,N/A/100,1
+2158,Fina Torres,5.3/10,34%,4/100,1
+2159,Bruce Paltrow,6.0/10,20%,4/100,1
+2160,Jenniphr Goodman,6.7/10,80%,7/100,1
+2161,Damien O'Donnell,6.9/10,78%,74/100,1
+2162,Peter M. Cohen,4.4/10,13%,N/A/100,1
+2163,Alberto Pernet,6.4/10,N/A%,N/A/100,1
+2164,Carlos Ávila,6.4/10,33%,32/100,1
+2165,John Swanbeck,6.6/10,73%,56/100,1
+2166,Sally Field,5.4/10,16%,23/100,1
+2167,Andrew Bergman,5.4/10,25%,34/100,1
+2168,Philip Haas,6.0/10,46%,57/100,1
+2169,Richard Dutcher,6.6/10,N/A%,38/100,1
+2170,Rotraut Pape,N/A/10,N/A%,N/A/100,1
+2171,Jamie Babbit,6.6/10,35%,39/100,1
+2172,José Luis Cuerda,7.6/10,96%,69/100,1
+2173,Majid Majidi,8.2/10,87%,8/100,1
+2174,Angelo Bell,7.2/10,N/A%,N/A/100,1
+2175,Eric Blakeney,5.7/10,24%,42/100,1
+2176,Michael Almereyda,6.0/10,57%,7/100,1
+2177,Chi Muoi Lo,6.6/10,43%,46/100,1
+2178,Alison Maclean,7.0/10,81%,76/100,1
+2179,Robert Vince,3.8/10,20%,43/100,1
+2180,Robert Adetuyi,4.4/10,8%,8/100,1
+2181,Lionel Coleman,7.5/10,59%,8/100,1
+2182,Emmanuelle Bercot,5.9/10,70%,57/100,1
+2183,Yang Zhang,7.5/10,86%,74/100,1
+2184,Greg Harrison,6.5/10,57%,54/100,1
+2185,Khyentse Norbu,6.9/10,85%,7/100,1
+2186,Jeroen Krabbé,7.4/10,36%,5/100,1
+2187,Antonio Montagna,N/A/10,N/A%,N/A/100,1
+2188,Jon Shear,7.0/10,72%,73/100,1
+2189,Fenton Bailey,7.2/10,86%,69/100,1
+2190, Randy Barbato,7.2/10,86%,69/100,1

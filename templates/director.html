@@ -1,0 +1,72 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<div class="bg-info container-fluid">
+	<div class="list-group-item-info row info_name">
+		<div class="col">
+			<h1 class="name_display">{{ director['Director Name'] }}</h1>
+		</div>
+	</div>
+
+	<div class="list-group-item-info row">
+		<div class="col">
+					<ul class="list-inline">
+						<li class="list-inline-item h4"> <strong> Rotten Tomatoes Score</strong>: {{ director['Rotten Tomatoes Average'] }}</li>
+						<li class="list-inline-item h4"><strong>IMDB Score</strong>: {{ director['IMDB Average'] }} </li>
+						<li class="list-inline-item h4"> <strong>Metacritic Score</strong>: {{ director['Metacritic Average'] }} </li>
+					</ul>
+		</div>
+	</div>
+	<div class="bg-info row">
+		<div class="col">
+			<h6 class="based_on"> Based on {{ director['Number of Movies'] }} movie(s) </h6>
+		</div>
+	</div>
+</div>
+ <div class="bg-info list-group">
+
+{% for movie in movies %}
+<div class="movie_list col-sm-9">
+	<div class="list-group-item list-group-item-info">
+		<h3 class="title">{{ movie['title'] }}</h3>
+		<div class="row">
+			<div class="col">
+						<ul class="list-inline">
+							<li class="list-inline-item">Rotten Tomatoes: {{ movie['rotten tomatoes'] }} </li>
+							<li class="list-inline-item"> IMDB: {{ movie['imdb'] }}</li>
+							<li class="list-inline-item"> Metacritic: {{ movie['metacritic'] }} </li>
+						</ul>
+			</div>
+		</div>
+	</div>
+		<div class="row">
+			<div class="col-12">
+				<div class="list-group stats">
+					<h6 class="list-group-item list_item"> Release Year: {{ movie['release year'] }}</h6>
+					<h6 class="list-group-item list_item">Rated: {{ movie['rated'] }}</h6>
+					<h6 class="list-group-item list_item"> Genre: {{ movie['genre'] }}</h6>
+				</div>
+				<div class="list-group stats">
+				<h6 class="list-group-item list_item">Release Date: {{ movie['release date'] }}</h6>
+				<h6 class="list-group-item list_item"> Runtime: {{ movie['runtime'] }}</h6>
+				<h6 class="list-group-item list_item"> Website: {{ movie['website'] }}</h6>
+			</div>
+		</div>
+	</div>
+</div>
+{% endfor %}
+<p class="reset_search"><a class="linkback" href="{{ url_for('index') }}">Return to the Home Page</a> to search something else!</p>
+</div>
+<footer class ='bg-info'>
+  <div class="row">
+    <div class="col-6">
+      <p class="footer">Site and Database built by <strong> Daniel Portuondo </strong></p>
+    </div>
+    <div class="col-6">
+      <p class="footer">Credits: OMDB API, Wikipedia.com, BoxOfficeMojo.com</p>
+    </div>
+  </div>
+</footer>
+{% endblock %}

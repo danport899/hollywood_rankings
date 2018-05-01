@@ -1,0 +1,28 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="bg-info container-fluid">
+  <p class="results"> Results for '{{ search }}' </p>
+
+  <ul class="list-group col-sm-8 list">
+      {% for name in name_list %}
+        <li><a class="list-group-item h4 list-group-item-info pad" href="{{ url_for( 'director_detail', num=name["ID"]) }}">{{ name['Director Name'] }}</a></li>
+      {% endfor %}
+      <p id="space"><br></p>
+  </ul>
+<p class="results">{{ message }}</p>
+<p class="reset_search">Not what you're looking for? <br> <a class="linkback" href="{{ url_for('index') }}">Return to the Home Page</a> to search something else!</p>
+</div>
+<footer class ='bg-info'>
+  <div class="row">
+    <div class="col-6">
+      <p class="footer">Site and Database built by <strong> Daniel Portuondo </strong></p>
+    </div>
+    <div class="col-6">
+      <p class="footer">Credits: OMDB API, Wikipedia.com, BoxOfficeMojo.com</p>
+    </div>
+  </div>
+</footer>
+{% endblock %}

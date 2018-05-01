@@ -1,0 +1,109 @@
+.welcome,.explore {
+  font-family: 'Anton', sans-serif;
+  font-size: 5em;
+	text-align: center;
+	padding-bottom: 4%;
+  padding-top: 4%;
+}
+
+.explore {
+  padding-bottom: 1%;
+}
+.explore_title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+}
+.index_list {
+	margin: auto;
+	margin-top: 2%;
+}
+.index_item{
+  font-family: 'Arvo', serif;
+  font-size: 1.2em;
+}
+.form_text{
+  font-family: 'Arvo', serif;
+  font-size: 3em;
+}
+.quick_form {
+	margin: auto;
+}
+.results {
+  font-family: 'Oswald', sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+.reset_search {
+  text-align: center;
+  font-size: 1.5em;
+}
+.list{
+	margin: auto;
+	list-style-type: none
+}
+.stats {
+  float: left;
+  width: 50%;
+}
+.list_item {
+  font-size: .8em;
+}
+.pad{
+	margin: 1%;
+}
+.form{
+	margin: auto;
+	padding: 2%;
+	border-radius: 10px;
+}
+.name_display {
+  font-family: 'Anton', sans-serif;
+  font-size: 6em;
+}
+.background {
+	background-color: #42bcf4;
+}
+.movie_list{
+	padding: 1%;
+	border-radius: 5%;
+	margin: auto;
+}
+
+.info_name {
+  padding-top: 2%;
+}
+.based_on {
+  border-bottom: 1px black solid;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+  padding-top: 2%;
+}
+.linkback{
+  color: #1551b2;
+}
+.footer{
+  padding-top: 5%;
+  text-align: center;
+}
+@media screen and (max-width: 480px) {
+
+  .index_list {
+  	margin: 1%;
+  }
+  .welcome,.explore {
+    font-size: 3em;
+  }
+  .name_display {
+    font-size: 4em;
+}
+
+.form_text{
+  font-family: 'Arvo', serif;
+  font-size: 1.5em;
+}
+
+
+
+.footer{
+  font-size: .8em;
+}

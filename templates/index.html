@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block content %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+<div class="container-fluid list-group-item-info">
+  <h3 class="welcome"> Welcome to the Hollywood Ranker! </h3>
+  <div class="bg-info col-md-6 form">
+    <p> <strong class="form_text">Search</strong> for one of the options below!</p>
+    {{ wtf.quick_form(form) }}
+  </div>
+
+<h3 class="explore"> Explore  </h3>
+    <div class="row">
+      <div class="col-md-5 index_list">
+        <ul class="list-group">
+          <p class="explore_title"> Directors </p>
+          {% for number in number_list %}
+
+            <li class="list-group-item index_item"><a href="{{ url_for( 'director_detail', num=number) }}">{{ directors[(number-1)]['Director Name'] }}</a></li>
+
+          {% endfor %}
+
+        </ul>
+      </div>
+      <div class="col-md-5 index_list">
+        <ul class="list_group">
+            <p class="explore_title"> Production Companies </p>
+
+            {% for number in number_list2 %}
+              <li class="list-group-item index_item"><a href="{{ url_for( 'production_detail', num=number) }}">{{ company[(number-1)]['Company Name'] }}</a></li>
+
+            {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <footer class ='list-group-item-info'>
+  	<div class="row">
+  		<div class="col-6">
+  			<p class="footer">Site and Database built by <strong> Daniel Portuondo </strong></p>
+  		</div>
+  		<div class="col-6">
+  			<p class="footer">Credits: OMDB API, Wikipedia.com, BoxOfficeMojo.com</p>
+  		</div>
+  	</div>
+  </footer>
+{% endblock %}
