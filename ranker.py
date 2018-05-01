@@ -24,6 +24,8 @@ class SearchForm(FlaskForm):
 @app.route('/', methods=['GET', 'POST'])
 def index():
     form = SearchForm()
+    productions_info_list = convert_to_dict('production_companies.csv')
+    movie_info_list = convert_to_dict('movie_data.csv')
     company_options_list = []
     director_options_list = []
     if form.validate_on_submit():
@@ -32,13 +34,37 @@ def index():
         message = ''
         if category == "Production Company":
             for company in production_list:
+                movie_list = []
+                info_list = []
                 if name in company["Company Name"]:
                     company_options_list.append(company)
             if len(company_options_list) == 0:
                 message = 'Name not found'
                 return render_template('production_search.html',message=message)
             elif len(company_options_list) == 1:
-                return render_template('production.html', company=company_options_list[0])
+                for production in productions_info_list:
+                    for studio in literal_eval(production['Production']):
+                        if studio == company_options_list[0]["Company Name"]:
+                            movie_list.append(production['Title'])
+                for movie in movie_list:
+                    imdb = "N/A"
+                    rotten = "N/A"
+                    metacritic = "N/A"
+                    for info in movie_info_list:
+                        if movie == info['Title']:
+                            film = info
+                            rating_list = literal_eval(film['Ratings'])
+                            for rating in rating_list:
+                                if rating['Source'] == 'Internet Movie Database':
+                                    imdb = rating['Value']
+                                elif rating['Source'] == 'Rotten Tomatoes':
+                                    rotten = rating['Value']
+                                elif rating['Source'] == 'Metacritic':
+                                    metacritic = rating['Value']
+                            movie_dict = {'title':film['Title'],'imdb':imdb,"rotten tomatoes":rotten,"metacritic": metacritic,'release year':film['Year'],'rated':film['Rated'],'runtime':film["Runtime"],'genre':film['Genre'],'release date':film['Released'],'website':film["Website"]}
+
+                            info_list.append(movie_dict)
+                return render_template('production.html', company=company_options_list[0], movies = info_list)
             else:
              return render_template('production_search.html',name_list=company_options_list, search = name)
         elif category == "Director":
@@ -49,12 +75,10 @@ def index():
                 message = 'Name not found'
                 return render_template('director_search.html',message=message)
             elif len(director_options_list) == 1:
-                director_info_list = convert_to_dict('movie_data.csv')
                 movie_list = []
-                director = director_options_list[0]
                 try:
-                    for info in director_info_list:
-                            if director["Director Name"] in info['Director']:
+                    for info in movie_info_list:
+                            if director_options_list[0]['Director Name'] in info['Director']:
                                 rating_list = literal_eval(info['Ratings'])
                                 imdb = "N/A"
                                 rotten = "N/A"
@@ -66,11 +90,12 @@ def index():
                                         rotten = rating['Value']
                                     elif rating['Source'] == 'Metacritic':
                                         metacritic = rating['Value']
-                                movie = {'title':info['Title'],'imdb':imdb,"rotten tomatoes":rotten,"metacritic": metacritic}
+                                movie = {'title':info['Title'],'imdb':imdb,"rotten tomatoes":rotten,"metacritic": metacritic,'release year':info['Year'],'rated':info['Rated'],'runtime':info["Runtime"],'genre':info['Genre'],'release date':info['Released'],'website':info["Website"]}
                                 movie_list.append(movie)
+                    return render_template('director.html', director=director_options_list[0], movies = movie_list)
                 except SyntaxError:
                     pass
-                return render_template('director.html', director=director_options_list[0], movies = movie_list)
+
             else:
                 return     render_template('director_search.html',name_list=director_options_list, search = name)
 
@@ -89,14 +114,14 @@ def index():
 @app.route('/director/<num>.html')
 def director_detail(num):
     form = SearchForm()
-    director_info_list = convert_to_dict('movie_data.csv')
+    movie_info_list = convert_to_dict('movie_data.csv')
     movie_list = []
     for director in director_list:
         if director['ID'] == num:
             director_dict = director
             break
     try:
-        for info in director_info_list:
+        for info in movie_info_list:
                 if director_dict['Director Name'] in info['Director']:
                     rating_list = literal_eval(info['Ratings'])
                     imdb = "N/A"
